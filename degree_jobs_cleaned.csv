@@ -1,0 +1,760 @@
+job_id,job_title,salary_usd,employment_type,company_location,is_remote,employee_location,job_skills,degree_required,posting_date,company_name,has_target,salary_tier,degree_flag
+8,Data Analyst,160710,CT,Singapore,False,Singapore,"['Hadoop', 'Git', 'Mathematics', 'Python']",PhD,2024-11-04,Quantum Computing Inc,True,High,degree required
+27,Data Analyst,52997,PT,Austria,False,Singapore,"['Mathematics', 'Kubernetes', 'TensorFlow', 'Tableau', 'PyTorch']",PhD,2025-01-10,Predictive Systems,True,Mid,degree required
+80,Data Analyst,157597,CT,France,True,France,"['Git', 'Kubernetes', 'TensorFlow', 'R', 'Java']",Bachelor,2024-08-31,Neural Networks Co,False,High,degree required
+91,Data Analyst,97997,CT,France,True,France,"['Hadoop', 'Python', 'TensorFlow', 'R', 'Statistics']",PhD,2024-06-19,Algorithmic Solutions,True,Mid,degree required
+96,Data Analyst,109029,FT,France,False,France,"['Kubernetes', 'Scala', 'Java']",Bachelor,2025-04-05,Predictive Systems,False,High,degree required
+102,Data Analyst,91577,CT,Netherlands,True,Netherlands,"['Spark', 'Mathematics', 'PyTorch', 'SQL', 'TensorFlow']",Bachelor,2024-01-27,Algorithmic Solutions,True,Mid,degree required
+117,Data Analyst,65570,FL,Ireland,True,Ireland,"['PyTorch', 'SQL', 'MLOps', 'AWS', 'TensorFlow']",Associate,2024-10-22,Smart Analytics,True,Mid,degree required
+152,Data Analyst,184637,PT,Sweden,True,Sweden,"['R', 'SQL', 'Data Visualization']",Bachelor,2024-05-23,Machine Intelligence Group,True,High,degree required
+209,Data Analyst,48892,CT,France,True,Ireland,"['Linux', 'Python', 'NLP']",Bachelor,2024-10-08,DataVision Ltd,True,Low,degree required
+228,Data Analyst,52027,PT,South Korea,True,South Korea,"['Kubernetes', 'Linux', 'Tableau', 'MLOps', 'Statistics']",Master,2024-04-18,Smart Analytics,True,Mid,degree required
+237,Data Analyst,59198,FT,Canada,True,Switzerland,"['Linux', 'Kubernetes', 'Data Visualization', 'TensorFlow', 'Docker']",Master,2025-04-27,Algorithmic Solutions,False,Mid,degree required
+248,Data Analyst,132056,CT,Netherlands,False,Netherlands,"['Java', 'Azure', 'Tableau', 'Python']",Master,2024-10-05,Digital Transformation LLC,True,High,degree required
+264,Data Analyst,122796,PT,India,True,India,"['Scala', 'AWS', 'Spark', 'Deep Learning']",PhD,2024-08-20,Digital Transformation LLC,False,High,degree required
+266,Data Analyst,118505,CT,United Kingdom,True,United Kingdom,"['Scala', 'Mathematics', 'MLOps', 'Python']",Bachelor,2025-03-15,Predictive Systems,True,High,degree required
+268,Data Analyst,60019,CT,United Kingdom,True,United Kingdom,"['Java', 'Kubernetes', 'Tableau']",PhD,2024-03-11,Cognitive Computing,True,Mid,degree required
+294,Data Analyst,47958,PT,Finland,True,Finland,"['Mathematics', 'Scala', 'MLOps', 'SQL']",Bachelor,2025-02-03,Advanced Robotics,True,Low,degree required
+305,Data Analyst,64384,PT,Australia,False,Finland,"['Python', 'Kubernetes', 'Scala', 'Linux']",PhD,2024-02-23,Smart Analytics,True,Mid,degree required
+316,Data Analyst,105723,CT,Sweden,True,India,"['NLP', 'SQL', 'Python']",Bachelor,2024-12-09,TechCorp Inc,True,High,degree required
+356,Data Analyst,115634,FL,South Korea,True,India,"['Linux', 'Hadoop', 'Spark', 'Azure']",Master,2025-01-12,Digital Transformation LLC,False,High,degree required
+364,Data Analyst,221235,FT,United Kingdom,False,Australia,"['Kubernetes', 'Docker', 'Tableau', 'Python', 'Spark']",Associate,2024-04-14,Predictive Systems,True,High,degree required
+416,Data Analyst,298418,FL,Denmark,False,Denmark,"['Python', 'TensorFlow', 'AWS', 'MLOps']",Master,2024-05-11,Cloud AI Solutions,True,High,degree required
+449,Data Analyst,187668,PT,Singapore,False,Singapore,"['Python', 'Data Visualization', 'Mathematics']",Master,2024-05-14,DataVision Ltd,True,High,degree required
+458,Data Analyst,88878,FT,Japan,False,Japan,"['Deep Learning', 'Hadoop', 'NLP']",Master,2024-07-25,DeepTech Ventures,False,Mid,degree required
+493,Data Analyst,117198,FL,France,True,France,"['R', 'Data Visualization', 'Git', 'GCP']",Bachelor,2025-04-07,Digital Transformation LLC,False,High,degree required
+497,Data Analyst,217701,PT,Denmark,False,Denmark,"['PyTorch', 'GCP', 'Data Visualization', 'Deep Learning', 'Azure']",Bachelor,2024-03-01,Cloud AI Solutions,False,High,degree required
+512,Data Analyst,92035,CT,Israel,True,Netherlands,"['AWS', 'Linux', 'TensorFlow', 'Git']",PhD,2025-02-12,Algorithmic Solutions,False,Mid,degree required
+584,Data Analyst,49630,PT,Sweden,True,Sweden,"['Git', 'Spark', 'Statistics', 'MLOps', 'Mathematics']",Bachelor,2024-11-23,DeepTech Ventures,False,Low,degree required
+596,Data Analyst,97771,CT,Singapore,False,Singapore,"['Linux', 'Scala', 'NLP', 'Hadoop']",Master,2024-05-25,Cloud AI Solutions,False,Mid,degree required
+601,Data Analyst,169842,FL,Germany,True,Germany,"['GCP', 'Mathematics', 'Git', 'PyTorch']",Associate,2024-05-20,Digital Transformation LLC,False,High,degree required
+634,Data Analyst,176838,FL,Norway,True,Norway,"['TensorFlow', 'AWS', 'Linux']",Master,2025-03-27,Cognitive Computing,False,High,degree required
+636,Data Analyst,92317,FT,Norway,True,Norway,"['Git', 'R', 'TensorFlow', 'AWS']",Associate,2025-03-26,Algorithmic Solutions,False,Mid,degree required
+641,Data Analyst,66066,FL,Israel,True,Israel,"['R', 'Java', 'Python', 'SQL']",Bachelor,2024-12-24,Future Systems,True,Mid,degree required
+677,Data Analyst,60380,FL,Australia,False,Australia,"['Scala', 'Kubernetes', 'Computer Vision']",Associate,2024-12-07,Advanced Robotics,False,Mid,degree required
+683,Data Analyst,40586,CT,Israel,False,China,"['TensorFlow', 'SQL', 'Tableau']",PhD,2024-05-02,Future Systems,True,Low,degree required
+689,Data Analyst,89120,CT,India,True,India,"['Docker', 'Hadoop', 'Python', 'Tableau']",Master,2024-11-25,DataVision Ltd,True,Mid,degree required
+716,Data Analyst,112934,CT,Norway,True,Norway,"['TensorFlow', 'GCP', 'NLP', 'Docker']",Associate,2025-02-18,Cognitive Computing,False,High,degree required
+718,Data Analyst,107490,CT,Ireland,True,South Korea,"['Kubernetes', 'MLOps', 'AWS']",Master,2025-01-31,Cognitive Computing,False,High,degree required
+728,Data Analyst,60973,FT,Australia,False,Finland,"['SQL', 'Deep Learning', 'Tableau', 'Kubernetes', 'Data Visualization']",Associate,2025-04-09,Autonomous Tech,True,Mid,degree required
+731,Data Analyst,43605,PT,China,False,China,"['Azure', 'GCP', 'Python', 'TensorFlow', 'PyTorch']",PhD,2025-03-11,Smart Analytics,True,Low,degree required
+767,Data Analyst,169198,FT,Finland,True,South Korea,"['Linux', 'Python', 'MLOps', 'NLP']",Bachelor,2025-03-04,DataVision Ltd,True,High,degree required
+776,Data Analyst,55320,PT,Germany,True,United Kingdom,"['Linux', 'GCP', 'Git', 'PyTorch', 'Docker']",Master,2024-12-22,Digital Transformation LLC,False,Mid,degree required
+788,Data Analyst,108228,PT,Netherlands,True,Netherlands,"['Data Visualization', 'Python', 'NLP', 'Mathematics', 'Kubernetes']",Bachelor,2024-06-05,TechCorp Inc,True,High,degree required
+792,Data Analyst,139082,FL,United States,True,Sweden,"['Tableau', 'Scala', 'Docker', 'NLP']",Master,2024-06-30,Neural Networks Co,True,High,degree required
+845,Data Analyst,180769,FL,Norway,False,Norway,"['R', 'NLP', 'MLOps', 'Tableau', 'Git']",PhD,2025-03-23,Cloud AI Solutions,True,High,degree required
+875,Data Analyst,55870,FT,Austria,True,Austria,"['NLP', 'Git', 'Scala', 'Linux']",Master,2024-10-08,Machine Intelligence Group,False,Mid,degree required
+900,Data Analyst,77410,FL,India,False,Austria,"['AWS', 'SQL', 'MLOps', 'Tableau']",Associate,2024-07-06,AI Innovations,True,Mid,degree required
+901,Data Analyst,145271,FT,Netherlands,True,Netherlands,"['Git', 'R', 'Scala']",Master,2025-02-28,TechCorp Inc,False,High,degree required
+915,Data Analyst,85604,FT,Austria,True,United Kingdom,"['Statistics', 'Scala', 'Hadoop']",Master,2024-11-08,Quantum Computing Inc,False,Mid,degree required
+918,Data Analyst,349508,FT,Norway,False,South Korea,"['Java', 'SQL', 'R', 'Spark']",PhD,2024-03-06,Smart Analytics,True,High,degree required
+930,Data Analyst,54926,FT,Israel,True,Israel,"['SQL', 'Computer Vision', 'Tableau', 'TensorFlow', 'Deep Learning']",PhD,2024-01-12,Cloud AI Solutions,True,Mid,degree required
+934,Data Analyst,162562,FL,Australia,True,Australia,"['Git', 'Python', 'Linux']",Master,2024-06-13,DataVision Ltd,True,High,degree required
+958,Data Analyst,52763,FL,France,True,France,"['Git', 'PyTorch', 'Computer Vision']",PhD,2025-01-23,Cloud AI Solutions,False,Mid,degree required
+966,Data Analyst,64577,PT,Canada,True,Germany,"['Git', 'Python', 'Mathematics']",Master,2024-05-01,DeepTech Ventures,True,Mid,degree required
+985,Data Analyst,129423,CT,Netherlands,True,Netherlands,"['GCP', 'Scala', 'Kubernetes', 'Git']",Master,2024-10-31,DataVision Ltd,False,High,degree required
+995,Data Analyst,60598,FL,Netherlands,True,Netherlands,"['GCP', 'SQL', 'Computer Vision', 'Mathematics']",Bachelor,2025-01-18,Future Systems,True,Mid,degree required
+1019,Data Analyst,108128,FL,United States,True,United States,"['Linux', 'SQL', 'Azure', 'R']",Bachelor,2025-04-22,Autonomous Tech,True,High,degree required
+1031,Data Analyst,102169,PT,France,True,Sweden,"['Hadoop', 'Kubernetes', 'Python', 'Deep Learning', 'AWS']",Bachelor,2025-04-11,Predictive Systems,True,High,degree required
+1032,Data Analyst,156162,CT,Singapore,True,Germany,"['Docker', 'Python', 'Computer Vision', 'NLP']",Master,2024-06-18,Neural Networks Co,True,High,degree required
+1037,Data Analyst,55411,CT,Austria,True,Austria,"['MLOps', 'TensorFlow', 'Data Visualization', 'SQL', 'GCP']",Associate,2025-03-20,Quantum Computing Inc,True,Mid,degree required
+1049,Data Analyst,123571,CT,Australia,False,Australia,"['Hadoop', 'Spark', 'MLOps', 'Computer Vision', 'Scala']",Master,2024-10-21,Neural Networks Co,False,High,degree required
+1067,Data Analyst,62281,PT,Austria,True,Austria,"['TensorFlow', 'Linux', 'Computer Vision', 'Hadoop', 'SQL']",PhD,2025-01-19,Neural Networks Co,True,Mid,degree required
+1079,Data Analyst,113645,CT,United Kingdom,True,United Kingdom,"['Python', 'Linux', 'Deep Learning']",Master,2025-03-31,DeepTech Ventures,True,High,degree required
+1102,Data Analyst,272477,CT,Singapore,False,Singapore,"['Computer Vision', 'SQL', 'TensorFlow', 'Statistics']",Bachelor,2025-04-29,Quantum Computing Inc,True,High,degree required
+1110,Data Analyst,65952,FT,Netherlands,True,Netherlands,"['MLOps', 'Linux', 'Azure', 'Mathematics']",Bachelor,2025-01-13,Autonomous Tech,False,Mid,degree required
+1130,Data Analyst,66901,CT,Japan,False,Japan,"['Linux', 'AWS', 'Azure']",Associate,2024-12-14,DeepTech Ventures,False,Mid,degree required
+1143,Data Analyst,93842,FL,United Kingdom,True,United Kingdom,"['TensorFlow', 'Statistics', 'MLOps']",Master,2024-11-26,Quantum Computing Inc,False,Mid,degree required
+1148,Data Analyst,106534,FT,Germany,True,Germany,"['Kubernetes', 'TensorFlow', 'Docker']",Bachelor,2024-09-27,TechCorp Inc,False,High,degree required
+1173,Data Analyst,158284,CT,Sweden,True,Germany,"['Data Visualization', 'Docker', 'Kubernetes', 'MLOps']",Master,2024-02-04,Cognitive Computing,False,High,degree required
+1188,Data Analyst,94388,PT,France,True,France,"['Linux', 'Scala', 'Data Visualization', 'TensorFlow', 'AWS']",Bachelor,2025-04-07,Cognitive Computing,False,Mid,degree required
+1215,Data Analyst,54500,CT,Ireland,True,France,"['Scala', 'Python', 'MLOps', 'AWS', 'Docker']",Master,2024-11-16,Cloud AI Solutions,True,Mid,degree required
+1220,Data Analyst,117816,FL,Sweden,True,Sweden,"['PyTorch', 'Linux', 'GCP', 'TensorFlow']",PhD,2024-04-24,DataVision Ltd,False,High,degree required
+1248,Data Analyst,64590,FT,Ireland,False,Ireland,"['AWS', 'R', 'Mathematics', 'Azure', 'Deep Learning']",Master,2024-11-21,Autonomous Tech,False,Mid,degree required
+1254,Data Analyst,62143,CT,United States,True,United States,"['Git', 'Python', 'Docker', 'Tableau', 'Linux']",Associate,2024-09-10,Neural Networks Co,True,Mid,degree required
+1294,Data Analyst,75890,FL,France,False,France,"['Azure', 'Git', 'Mathematics', 'Python']",Master,2024-04-25,TechCorp Inc,True,Mid,degree required
+1298,Data Analyst,159770,FL,United States,False,Australia,"['Data Visualization', 'Hadoop', 'Kubernetes', 'Python', 'TensorFlow']",Master,2025-01-19,Cloud AI Solutions,True,High,degree required
+1302,Data Analyst,55972,FL,Japan,True,Japan,"['Azure', 'Java', 'Spark', 'SQL']",Master,2024-01-29,Machine Intelligence Group,True,Mid,degree required
+1338,Data Analyst,89198,CT,Norway,True,United Kingdom,"['Tableau', 'SQL', 'Python', 'TensorFlow']",Master,2025-02-17,AI Innovations,True,Mid,degree required
+1359,Data Analyst,89500,CT,France,True,France,"['Docker', 'R', 'Python']",Master,2024-09-03,TechCorp Inc,True,Mid,degree required
+1366,Data Analyst,66052,FT,Finland,True,Finland,"['Java', 'MLOps', 'Scala', 'Azure', 'Deep Learning']",Associate,2024-10-04,DataVision Ltd,False,Mid,degree required
+1370,Data Analyst,195405,FT,Denmark,True,France,"['SQL', 'Deep Learning', 'Python']",Bachelor,2025-03-13,Neural Networks Co,True,High,degree required
+1374,Data Analyst,103040,CT,United States,False,United States,"['Linux', 'AWS', 'Azure']",Master,2025-03-10,Algorithmic Solutions,False,High,degree required
+1415,Data Analyst,361541,CT,Denmark,False,Denmark,"['Python', 'Azure', 'R']",Master,2024-08-17,Algorithmic Solutions,True,High,degree required
+1436,Data Analyst,83339,PT,Ireland,True,Ireland,"['SQL', 'Azure', 'Java', 'TensorFlow', 'Docker']",Associate,2024-03-11,DataVision Ltd,True,Mid,degree required
+1460,Data Analyst,86027,PT,Finland,True,Singapore,"['Git', 'Python', 'GCP']",Associate,2024-09-14,DeepTech Ventures,True,Mid,degree required
+1463,Data Analyst,70693,CT,Austria,False,Austria,"['Scala', 'Data Visualization', 'Hadoop']",PhD,2024-05-31,DeepTech Ventures,False,Mid,degree required
+1490,Data Analyst,127299,FL,South Korea,True,South Korea,"['PyTorch', 'Docker', 'Linux', 'Computer Vision']",PhD,2024-02-21,Autonomous Tech,False,High,degree required
+1493,Data Analyst,112517,CT,United Kingdom,True,Denmark,"['Python', 'TensorFlow', 'PyTorch']",Associate,2024-07-22,Autonomous Tech,True,High,degree required
+1495,Data Analyst,101245,CT,Norway,False,Norway,"['NLP', 'Linux', 'Kubernetes']",Master,2024-10-30,Quantum Computing Inc,False,High,degree required
+1515,Data Analyst,172076,FL,Ireland,True,Ireland,"['Statistics', 'NLP', 'AWS', 'Azure', 'Mathematics']",Bachelor,2024-06-14,DataVision Ltd,False,High,degree required
+1524,Data Analyst,65071,FL,France,True,France,"['Computer Vision', 'Deep Learning', 'Kubernetes']",PhD,2024-12-05,Neural Networks Co,False,Mid,degree required
+1526,Data Analyst,73672,FT,Austria,True,Austria,"['Python', 'Java', 'GCP', 'Azure']",Bachelor,2024-03-10,DeepTech Ventures,True,Mid,degree required
+1530,Data Analyst,102494,FL,France,False,France,"['Kubernetes', 'Deep Learning', 'GCP', 'TensorFlow']",Associate,2024-01-05,Machine Intelligence Group,False,High,degree required
+1555,Data Analyst,77967,PT,China,True,China,"['Python', 'TensorFlow', 'Data Visualization']",PhD,2024-10-04,Advanced Robotics,True,Mid,degree required
+1599,Data Analyst,99888,PT,India,False,Netherlands,"['Git', 'Kubernetes', 'Tableau', 'Linux']",Bachelor,2025-04-26,DataVision Ltd,True,Mid,degree required
+1607,Data Analyst,109174,FT,Denmark,True,Denmark,"['Spark', 'Python', 'Mathematics', 'Tableau']",Bachelor,2024-05-28,Future Systems,True,High,degree required
+1642,Data Analyst,74801,FL,Japan,False,India,"['Kubernetes', 'Docker', 'Tableau', 'GCP', 'AWS']",Associate,2024-10-26,Cognitive Computing,True,Mid,degree required
+1678,Data Analyst,238792,PT,Norway,True,Norway,"['R', 'Azure', 'PyTorch']",PhD,2024-04-27,DataVision Ltd,False,High,degree required
+1696,Data Analyst,75085,FT,Canada,False,Canada,"['Deep Learning', 'Kubernetes', 'Spark', 'Scala']",Associate,2024-11-06,Digital Transformation LLC,False,Mid,degree required
+1705,Data Analyst,109982,PT,Sweden,True,Sweden,"['R', 'SQL', 'GCP', 'Spark', 'Python']",PhD,2024-06-21,Digital Transformation LLC,True,High,degree required
+1717,Data Analyst,131112,FL,Netherlands,True,Netherlands,"['TensorFlow', 'SQL', 'NLP']",Bachelor,2024-12-31,Cloud AI Solutions,True,High,degree required
+1725,Data Analyst,122851,CT,India,False,India,"['Kubernetes', 'GCP', 'NLP', 'MLOps']",PhD,2024-01-18,Cloud AI Solutions,False,High,degree required
+1734,Data Analyst,284013,FL,Netherlands,False,Netherlands,"['Python', 'NLP', 'Docker', 'Statistics']",Master,2024-02-26,DataVision Ltd,True,High,degree required
+1745,Data Analyst,273838,PT,Norway,False,Norway,"['MLOps', 'Hadoop', 'Python', 'AWS', 'Tableau']",Master,2025-02-27,Cloud AI Solutions,True,High,degree required
+1765,Data Analyst,102189,FT,Israel,True,Israel,"['PyTorch', 'Deep Learning', 'TensorFlow', 'MLOps', 'Kubernetes']",Master,2024-11-25,Smart Analytics,False,High,degree required
+1804,Data Analyst,76070,CT,Japan,True,Japan,"['NLP', 'TensorFlow', 'AWS', 'Python', 'Scala']",Bachelor,2024-02-21,Future Systems,True,Mid,degree required
+1820,Data Analyst,110592,PT,Israel,True,Israel,"['Spark', 'Docker', 'Linux', 'Tableau', 'AWS']",PhD,2024-11-04,Machine Intelligence Group,True,High,degree required
+1825,Data Analyst,96415,PT,Finland,False,Sweden,"['Python', 'NLP', 'SQL', 'Linux']",PhD,2024-04-26,Smart Analytics,True,Mid,degree required
+1830,Data Analyst,88938,FT,Ireland,True,Ireland,"['Python', 'MLOps', 'NLP', 'Java', 'GCP']",Master,2024-09-05,DeepTech Ventures,True,Mid,degree required
+1840,Data Analyst,97546,FT,Singapore,True,Ireland,"['Deep Learning', 'Python', 'MLOps']",Bachelor,2024-03-21,Algorithmic Solutions,True,Mid,degree required
+1860,Data Analyst,39414,FT,India,True,India,"['Linux', 'Tableau', 'AWS', 'Java', 'PyTorch']",Associate,2024-04-08,DataVision Ltd,True,Low,degree required
+1871,Data Analyst,73979,CT,Canada,True,Norway,"['Git', 'Python', 'MLOps', 'Statistics', 'Deep Learning']",Associate,2024-03-10,Digital Transformation LLC,True,Mid,degree required
+1876,Data Analyst,117499,PT,Switzerland,False,Japan,"['GCP', 'Kubernetes', 'Deep Learning']",Associate,2024-03-24,DataVision Ltd,False,High,degree required
+1910,Data Analyst,255147,CT,Netherlands,True,Netherlands,"['Azure', 'Java', 'Deep Learning', 'Kubernetes']",Associate,2024-11-09,Cognitive Computing,False,High,degree required
+1950,Data Analyst,52005,FL,Sweden,True,Sweden,"['Spark', 'Linux', 'AWS', 'Mathematics']",Master,2024-12-05,Cloud AI Solutions,False,Mid,degree required
+1953,Data Analyst,64859,FL,Finland,False,Austria,"['Kubernetes', 'Tableau', 'Python', 'NLP', 'Mathematics']",Master,2024-02-12,DataVision Ltd,True,Mid,degree required
+1960,Data Analyst,119291,PT,Switzerland,False,Switzerland,"['Git', 'Mathematics', 'MLOps', 'Python', 'Scala']",PhD,2024-01-26,Future Systems,True,High,degree required
+1970,Data Analyst,81594,CT,United States,False,United States,"['Hadoop', 'Java', 'Kubernetes']",Bachelor,2025-04-23,Machine Intelligence Group,False,Mid,degree required
+2005,Data Analyst,48573,FT,India,False,India,"['Tableau', 'Data Visualization', 'Azure', 'GCP', 'Mathematics']",Bachelor,2024-05-06,Machine Intelligence Group,True,Low,degree required
+2023,Data Analyst,156699,FL,Singapore,True,Singapore,"['Kubernetes', 'Computer Vision', 'Hadoop', 'Statistics']",Bachelor,2024-04-10,Neural Networks Co,False,High,degree required
+2032,Data Analyst,85852,FT,United States,True,India,"['Kubernetes', 'PyTorch', 'Hadoop', 'Data Visualization']",Associate,2025-01-15,DataVision Ltd,False,Mid,degree required
+2094,Data Analyst,158109,CT,Singapore,False,Japan,"['Hadoop', 'R', 'NLP']",PhD,2025-03-10,Future Systems,False,High,degree required
+2103,Data Analyst,77543,FL,Germany,True,Austria,"['Kubernetes', 'Scala', 'Tableau', 'GCP']",Associate,2024-12-22,Autonomous Tech,True,Mid,degree required
+2111,Data Analyst,163142,FL,France,True,France,"['GCP', 'MLOps', 'Data Visualization', 'SQL', 'Mathematics']",Associate,2024-03-29,Quantum Computing Inc,True,High,degree required
+2128,Data Analyst,134006,FT,Netherlands,True,Netherlands,"['Linux', 'Hadoop', 'Spark']",PhD,2024-07-20,Future Systems,False,High,degree required
+2133,Data Analyst,45763,CT,Ireland,True,Ireland,"['Docker', 'Tableau', 'Java']",Associate,2025-01-08,AI Innovations,True,Low,degree required
+2161,Data Analyst,78161,CT,Canada,False,France,"['Mathematics', 'R', 'AWS']",PhD,2024-07-20,Algorithmic Solutions,False,Mid,degree required
+2167,Data Analyst,84031,CT,Sweden,False,Sweden,"['TensorFlow', 'Docker', 'Tableau', 'Computer Vision']",PhD,2024-12-09,DeepTech Ventures,True,Mid,degree required
+2170,Data Analyst,163835,FT,Denmark,True,United States,"['SQL', 'Hadoop', 'GCP', 'PyTorch']",Bachelor,2024-04-21,Algorithmic Solutions,True,High,degree required
+2188,Data Analyst,55672,CT,Austria,True,Austria,"['MLOps', 'Docker', 'Spark', 'Python', 'Linux']",PhD,2024-12-16,DataVision Ltd,True,Mid,degree required
+2217,Data Analyst,85042,PT,China,True,China,"['Mathematics', 'Python', 'Data Visualization', 'GCP', 'TensorFlow']",Associate,2024-06-25,Predictive Systems,True,Mid,degree required
+2240,Data Analyst,119808,FT,France,False,France,"['Java', 'Data Visualization', 'Python']",Master,2025-04-16,Advanced Robotics,True,High,degree required
+2251,Data Analyst,95911,CT,Sweden,True,Sweden,"['Spark', 'R', 'TensorFlow']",Bachelor,2025-01-01,Cognitive Computing,False,Mid,degree required
+2256,Data Analyst,128258,PT,China,True,Denmark,"['NLP', 'Tableau', 'GCP', 'Kubernetes']",Master,2024-07-19,DataVision Ltd,True,High,degree required
+2260,Data Analyst,122880,FT,Norway,False,Norway,"['TensorFlow', 'Scala', 'Git']",Associate,2024-04-03,Future Systems,False,High,degree required
+2294,Data Analyst,79869,PT,United Kingdom,True,Germany,"['Scala', 'Java', 'SQL', 'Deep Learning', 'PyTorch']",Bachelor,2024-06-20,Future Systems,True,Mid,degree required
+2302,Data Analyst,165928,CT,Singapore,False,Singapore,"['Statistics', 'SQL', 'Python', 'PyTorch', 'TensorFlow']",Bachelor,2024-10-26,Autonomous Tech,True,High,degree required
+2329,Data Analyst,105123,PT,China,True,Australia,"['AWS', 'Scala', 'R']",Master,2024-05-18,Future Systems,False,High,degree required
+2331,Data Analyst,211934,CT,United States,True,Sweden,"['Linux', 'Scala', 'Hadoop', 'Kubernetes', 'Git']",Associate,2025-01-20,DataVision Ltd,False,High,degree required
+2345,Data Analyst,64145,FT,Israel,True,Israel,"['MLOps', 'Statistics', 'SQL']",PhD,2025-01-07,AI Innovations,True,Mid,degree required
+2357,Data Analyst,170984,FL,United Kingdom,False,Israel,"['Java', 'Kubernetes', 'Azure']",Associate,2024-09-25,AI Innovations,False,High,degree required
+2369,Data Analyst,98626,CT,Denmark,False,Finland,"['Git', 'SQL', 'PyTorch']",Associate,2024-02-13,Quantum Computing Inc,True,Mid,degree required
+2372,Data Analyst,78338,PT,Finland,True,Ireland,"['R', 'Hadoop', 'GCP', 'Scala']",PhD,2024-05-10,Digital Transformation LLC,False,Mid,degree required
+2397,Data Analyst,308706,FT,Norway,False,Norway,"['Hadoop', 'Azure', 'Tableau']",Master,2024-10-29,Algorithmic Solutions,True,High,degree required
+2413,Data Analyst,215745,FL,Switzerland,True,Canada,"['Azure', 'Spark', 'R', 'Python']",Bachelor,2024-11-10,TechCorp Inc,True,High,degree required
+2426,Data Analyst,200903,FT,France,False,United States,"['Azure', 'GCP', 'MLOps', 'NLP', 'Mathematics']",Master,2025-04-17,Machine Intelligence Group,False,High,degree required
+2428,Data Analyst,69033,CT,Japan,True,Norway,"['Statistics', 'MLOps', 'Kubernetes', 'Linux']",Bachelor,2024-10-05,DataVision Ltd,False,Mid,degree required
+2515,Data Analyst,39217,PT,Austria,False,Austria,"['Linux', 'Python', 'Deep Learning', 'Computer Vision']",Master,2025-02-12,Quantum Computing Inc,True,Low,degree required
+2517,Data Analyst,221652,FT,Australia,True,Australia,"['TensorFlow', 'NLP', 'SQL', 'R', 'Deep Learning']",Bachelor,2024-05-05,Smart Analytics,True,High,degree required
+2523,Data Analyst,95678,FT,Israel,False,Israel,"['Azure', 'Spark', 'Hadoop', 'Mathematics']",Bachelor,2024-10-18,Cognitive Computing,False,Mid,degree required
+2594,Data Analyst,202409,FL,Netherlands,False,Australia,"['Mathematics', 'Docker', 'MLOps']",Master,2024-05-02,Digital Transformation LLC,False,High,degree required
+2597,Data Analyst,160673,CT,South Korea,True,South Korea,"['Spark', 'Docker', 'Scala']",PhD,2024-02-06,DataVision Ltd,False,High,degree required
+2599,Data Analyst,110885,FL,Sweden,True,Sweden,"['Tableau', 'Spark', 'Scala']",Master,2025-01-29,Smart Analytics,True,High,degree required
+2621,Data Analyst,67474,FT,Austria,True,Austria,"['Computer Vision', 'SQL', 'Hadoop', 'AWS']",PhD,2025-03-20,Future Systems,True,Mid,degree required
+2639,Data Analyst,91095,FT,Canada,True,Canada,"['R', 'TensorFlow', 'Spark', 'Docker']",Master,2024-03-19,Autonomous Tech,False,Mid,degree required
+2661,Data Analyst,159628,FL,Israel,True,Israel,"['AWS', 'SQL', 'MLOps']",Associate,2024-01-02,Digital Transformation LLC,True,High,degree required
+2680,Data Analyst,139073,FL,Denmark,True,Norway,"['Hadoop', 'SQL', 'AWS']",Associate,2024-10-04,Predictive Systems,True,High,degree required
+2720,Data Analyst,49653,CT,India,True,India,"['Linux', 'Hadoop', 'NLP', 'Mathematics']",PhD,2024-04-15,Advanced Robotics,False,Low,degree required
+2724,Data Analyst,130494,CT,India,False,Ireland,"['Tableau', 'R', 'Statistics', 'Python']",Master,2024-08-01,Autonomous Tech,True,High,degree required
+2733,Data Analyst,86797,FL,Finland,True,Finland,"['Python', 'TensorFlow', 'Data Visualization']",Bachelor,2024-05-08,Cloud AI Solutions,True,Mid,degree required
+2741,Data Analyst,65032,FT,Netherlands,True,France,"['R', 'Statistics', 'Tableau', 'Mathematics']",Master,2025-02-10,Smart Analytics,True,Mid,degree required
+2748,Data Analyst,146510,CT,Israel,True,Netherlands,"['Computer Vision', 'TensorFlow', 'Deep Learning', 'Azure']",Bachelor,2024-10-21,Future Systems,False,High,degree required
+2752,Data Analyst,77209,FT,Austria,True,Austria,"['Deep Learning', 'Computer Vision', 'Python', 'SQL', 'Data Visualization']",Master,2024-06-08,Cloud AI Solutions,True,Mid,degree required
+2802,Data Analyst,109482,CT,Denmark,True,Switzerland,"['Kubernetes', 'Deep Learning', 'MLOps']",Bachelor,2024-12-23,Smart Analytics,False,High,degree required
+2806,Data Analyst,79997,FT,Canada,True,Canada,"['Scala', 'Docker', 'MLOps', 'Kubernetes', 'R']",Bachelor,2024-03-06,Predictive Systems,False,Mid,degree required
+2827,Data Analyst,100772,PT,France,True,France,"['Python', 'Computer Vision', 'AWS', 'Scala']",PhD,2024-04-06,Neural Networks Co,True,High,degree required
+2828,Data Analyst,43907,PT,South Korea,True,Denmark,"['Tableau', 'PyTorch', 'NLP', 'MLOps', 'Spark']",Master,2024-11-13,TechCorp Inc,True,Low,degree required
+2859,Data Analyst,85957,PT,United States,True,United States,"['PyTorch', 'Azure', 'TensorFlow', 'Git']",PhD,2025-01-27,Predictive Systems,False,Mid,degree required
+2918,Data Analyst,85465,FT,Netherlands,True,India,"['Python', 'Spark', 'Deep Learning', 'Linux', 'TensorFlow']",Associate,2024-04-30,Future Systems,True,Mid,degree required
+2946,Data Analyst,150858,FT,Denmark,True,Ireland,"['Python', 'R', 'Spark', 'Scala', 'Deep Learning']",Master,2024-12-12,Algorithmic Solutions,True,High,degree required
+2961,Data Analyst,126620,FL,Germany,True,United States,"['Statistics', 'TensorFlow', 'Hadoop', 'GCP']",Master,2024-08-11,Neural Networks Co,False,High,degree required
+2970,Data Analyst,72958,FL,Israel,True,Israel,"['NLP', 'Azure', 'GCP']",Bachelor,2025-01-22,Advanced Robotics,False,Mid,degree required
+2976,Data Analyst,121287,CT,South Korea,True,South Korea,"['Linux', 'Docker', 'TensorFlow', 'Git']",Bachelor,2024-02-14,Cognitive Computing,False,High,degree required
+2999,Data Analyst,75039,CT,Netherlands,True,Netherlands,"['Linux', 'R', 'TensorFlow', 'NLP', 'Statistics']",PhD,2024-11-08,Predictive Systems,False,Mid,degree required
+3005,Data Analyst,97576,CT,Sweden,False,Sweden,"['R', 'Data Visualization', 'Scala']",PhD,2024-03-19,Future Systems,False,Mid,degree required
+3008,Data Analyst,262655,CT,Switzerland,True,Switzerland,"['Git', 'PyTorch', 'NLP', 'Tableau', 'Docker']",Master,2024-12-01,Digital Transformation LLC,True,High,degree required
+3026,Data Analyst,89648,FT,France,False,France,"['AWS', 'GCP', 'SQL', 'TensorFlow', 'Tableau']",Associate,2024-02-02,Autonomous Tech,True,Mid,degree required
+3030,Data Analyst,78623,FL,Sweden,True,Sweden,"['GCP', 'Scala', 'Java']",Master,2024-02-03,DataVision Ltd,False,Mid,degree required
+3084,Data Analyst,82319,FL,Ireland,False,Ireland,"['Linux', 'AWS', 'Azure', 'Data Visualization']",Bachelor,2024-10-12,DeepTech Ventures,False,Mid,degree required
+3091,Data Analyst,134623,FT,Netherlands,False,Netherlands,"['NLP', 'Computer Vision', 'Hadoop', 'Docker', 'Java']",Master,2024-09-20,DeepTech Ventures,False,High,degree required
+3124,Data Analyst,128650,FT,Singapore,True,Singapore,"['TensorFlow', 'Git', 'Mathematics', 'Deep Learning', 'Tableau']",Associate,2025-02-28,Cognitive Computing,True,High,degree required
+3140,Data Analyst,106326,FL,Germany,False,Germany,"['Mathematics', 'Kubernetes', 'Azure', 'Git', 'NLP']",PhD,2024-09-01,AI Innovations,False,High,degree required
+3154,Data Analyst,191672,CT,Switzerland,True,China,"['Docker', 'Data Visualization', 'Tableau', 'Deep Learning', 'GCP']",Bachelor,2024-10-02,AI Innovations,True,High,degree required
+3212,Data Analyst,172315,CT,Sweden,True,Sweden,"['PyTorch', 'Statistics', 'Tableau', 'TensorFlow', 'Computer Vision']",Master,2024-07-21,Digital Transformation LLC,True,High,degree required
+3217,Data Analyst,179215,PT,Germany,True,Australia,"['Java', 'PyTorch', 'Tableau', 'GCP', 'MLOps']",Associate,2024-02-17,Autonomous Tech,True,High,degree required
+3222,Data Analyst,136484,FT,Germany,False,Germany,"['Python', 'Git', 'Mathematics', 'TensorFlow', 'AWS']",Associate,2024-07-10,Neural Networks Co,True,High,degree required
+3246,Data Analyst,48050,FL,China,True,China,"['GCP', 'Azure', 'Kubernetes', 'Python']",Bachelor,2024-08-19,Smart Analytics,True,Low,degree required
+3281,Data Analyst,160736,PT,Switzerland,False,Switzerland,"['Git', 'SQL', 'Java']",Bachelor,2024-02-17,AI Innovations,True,High,degree required
+3297,Data Analyst,220844,PT,Switzerland,True,Australia,"['Hadoop', 'Python', 'Kubernetes']",Master,2024-01-17,Neural Networks Co,True,High,degree required
+3309,Data Analyst,148096,FL,Canada,False,Austria,"['Docker', 'Java', 'Computer Vision', 'Statistics', 'Git']",Master,2025-02-11,DeepTech Ventures,False,High,degree required
+3313,Data Analyst,150069,PT,Singapore,False,Singapore,"['PyTorch', 'Python', 'Mathematics', 'Scala']",PhD,2025-01-25,TechCorp Inc,True,High,degree required
+3336,Data Analyst,117279,PT,Sweden,True,Sweden,"['Data Visualization', 'Git', 'Python']",Bachelor,2025-03-02,Quantum Computing Inc,True,High,degree required
+3379,Data Analyst,65532,CT,Austria,False,Austria,"['Kubernetes', 'Data Visualization', 'Spark', 'Scala']",PhD,2024-05-17,Advanced Robotics,False,Mid,degree required
+3388,Data Analyst,101052,FT,Canada,True,United Kingdom,"['GCP', 'Tableau', 'PyTorch']",Bachelor,2024-10-28,DataVision Ltd,True,High,degree required
+3396,Data Analyst,119251,FL,United Kingdom,False,Ireland,"['Azure', 'AWS', 'Mathematics', 'Data Visualization']",Master,2024-03-19,Future Systems,False,High,degree required
+3409,Data Analyst,123488,PT,Ireland,True,Ireland,"['Scala', 'MLOps', 'PyTorch', 'NLP', 'Data Visualization']",Bachelor,2024-07-01,Machine Intelligence Group,False,High,degree required
+3431,Data Analyst,160089,FL,Switzerland,False,Switzerland,"['Java', 'Git', 'Kubernetes']",PhD,2024-06-02,Cloud AI Solutions,False,High,degree required
+3461,Data Analyst,84822,CT,France,False,France,"['Docker', 'Mathematics', 'SQL']",Master,2024-10-14,Advanced Robotics,True,Mid,degree required
+3487,Data Analyst,131006,FT,Switzerland,True,Switzerland,"['Mathematics', 'Git', 'Java', 'Hadoop', 'Deep Learning']",Bachelor,2024-07-23,Algorithmic Solutions,False,High,degree required
+3499,Data Analyst,64985,PT,Canada,True,Canada,"['Java', 'MLOps', 'R', 'SQL', 'Git']",Master,2025-02-15,Advanced Robotics,True,Mid,degree required
+3536,Data Analyst,104156,PT,Austria,False,Austria,"['Python', 'TensorFlow', 'Hadoop', 'Statistics', 'Mathematics']",PhD,2024-05-12,Smart Analytics,True,High,degree required
+3560,Data Analyst,51539,PT,China,True,China,"['Hadoop', 'Statistics', 'MLOps', 'Deep Learning']",PhD,2024-11-07,AI Innovations,False,Mid,degree required
+3575,Data Analyst,61583,FT,South Korea,False,South Korea,"['R', 'Java', 'Scala', 'Python']",Bachelor,2024-05-17,Cognitive Computing,True,Mid,degree required
+3584,Data Analyst,111612,FT,France,True,France,"['PyTorch', 'NLP', 'Deep Learning', 'Data Visualization', 'R']",Associate,2024-03-10,Smart Analytics,False,High,degree required
+3604,Data Analyst,54270,FT,Ireland,False,Switzerland,"['PyTorch', 'TensorFlow', 'Data Visualization', 'Computer Vision', 'Mathematics']",Master,2024-05-07,Cognitive Computing,False,Mid,degree required
+3625,Data Analyst,161152,FT,Denmark,False,Switzerland,"['Data Visualization', 'Git', 'GCP']",PhD,2024-08-16,Autonomous Tech,False,High,degree required
+3638,Data Analyst,51333,FL,Japan,True,Denmark,"['SQL', 'Docker', 'Hadoop', 'Mathematics']",PhD,2024-01-22,TechCorp Inc,True,Mid,degree required
+3657,Data Analyst,98483,CT,Austria,True,Austria,"['Spark', 'Linux', 'Azure']",Associate,2024-03-28,TechCorp Inc,False,Mid,degree required
+3668,Data Analyst,75483,FT,Australia,True,Denmark,"['Python', 'Git', 'Hadoop', 'Scala', 'GCP']",Associate,2024-05-17,Digital Transformation LLC,True,Mid,degree required
+3722,Data Analyst,161264,FT,Norway,True,Norway,"['NLP', 'MLOps', 'Python', 'TensorFlow']",PhD,2024-08-05,Algorithmic Solutions,True,High,degree required
+3740,Data Analyst,81394,FT,France,False,France,"['MLOps', 'R', 'Python', 'TensorFlow', 'Hadoop']",Bachelor,2024-10-25,Digital Transformation LLC,True,Mid,degree required
+3791,Data Analyst,99196,FL,Sweden,True,United Kingdom,"['Data Visualization', 'Git', 'AWS']",Associate,2024-09-29,Autonomous Tech,False,Mid,degree required
+3795,Data Analyst,89123,FT,Australia,True,Switzerland,"['MLOps', 'Azure', 'Mathematics', 'Computer Vision', 'Python']",Bachelor,2024-10-18,Cloud AI Solutions,True,Mid,degree required
+3805,Data Analyst,88788,PT,Israel,True,Israel,"['Tableau', 'Kubernetes', 'Linux']",Associate,2024-04-17,DeepTech Ventures,True,Mid,degree required
+3807,Data Analyst,135898,FL,Finland,True,Finland,"['NLP', 'R', 'Spark', 'GCP']",Associate,2024-10-09,Cognitive Computing,False,High,degree required
+3839,Data Analyst,60556,FL,Netherlands,True,Finland,"['TensorFlow', 'GCP', 'Python', 'R']",Associate,2024-09-11,Autonomous Tech,True,Mid,degree required
+3859,Data Analyst,123441,PT,Singapore,True,Singapore,"['AWS', 'MLOps', 'Computer Vision']",Bachelor,2024-05-29,Cognitive Computing,False,High,degree required
+3877,Data Analyst,61431,PT,France,False,France,"['Azure', 'Spark', 'Tableau']",PhD,2024-06-06,Advanced Robotics,True,Mid,degree required
+3894,Data Analyst,83328,CT,Norway,True,Norway,"['Spark', 'Git', 'Data Visualization', 'Kubernetes', 'GCP']",PhD,2024-03-22,Quantum Computing Inc,False,Mid,degree required
+3896,Data Analyst,66095,FT,Finland,True,Finland,"['Java', 'PyTorch', 'Git', 'Hadoop']",Associate,2024-01-09,DataVision Ltd,False,Mid,degree required
+3933,Data Analyst,166199,CT,United States,False,Israel,"['Deep Learning', 'Hadoop', 'Spark', 'Docker', 'PyTorch']",Bachelor,2024-05-13,Cognitive Computing,False,High,degree required
+3975,Data Analyst,152803,FT,Australia,False,Norway,"['Docker', 'TensorFlow', 'Computer Vision']",Bachelor,2024-05-31,DeepTech Ventures,False,High,degree required
+4000,Data Analyst,244488,PT,Germany,False,Germany,"['Git', 'NLP', 'SQL', 'Scala']",Master,2024-03-25,Cognitive Computing,True,High,degree required
+4020,Data Analyst,92758,FL,Germany,True,Germany,"['SQL', 'Linux', 'GCP', 'Statistics']",Bachelor,2024-10-08,Neural Networks Co,True,Mid,degree required
+4022,Data Analyst,82618,FT,United Kingdom,True,United Kingdom,"['NLP', 'Data Visualization', 'Python', 'Linux']",Master,2024-05-30,Advanced Robotics,True,Mid,degree required
+4042,Data Analyst,224309,FT,United Kingdom,False,United Kingdom,"['Computer Vision', 'Tableau', 'Statistics']",Master,2024-01-31,Quantum Computing Inc,True,High,degree required
+4066,Data Analyst,157401,FT,India,True,Finland,"['Java', 'SQL', 'Kubernetes']",Associate,2025-03-02,Future Systems,True,High,degree required
+4105,Data Analyst,79394,FL,Canada,True,Canada,"['Kubernetes', 'SQL', 'NLP', 'Git', 'Deep Learning']",PhD,2024-12-31,Digital Transformation LLC,True,Mid,degree required
+4115,Data Analyst,91598,FL,China,True,China,"['Mathematics', 'Spark', 'R']",PhD,2025-03-04,DataVision Ltd,False,Mid,degree required
+4132,Data Analyst,53775,FT,Austria,True,Israel,"['GCP', 'Scala', 'Java', 'Data Visualization', 'Python']",Associate,2024-02-07,AI Innovations,True,Mid,degree required
+4193,Data Analyst,136606,PT,Norway,True,Norway,"['Linux', 'TensorFlow', 'Data Visualization', 'Python']",Master,2024-02-06,Autonomous Tech,True,High,degree required
+4196,Data Analyst,78025,FT,Switzerland,True,Netherlands,"['TensorFlow', 'MLOps', 'Git', 'SQL']",PhD,2024-08-25,Algorithmic Solutions,True,Mid,degree required
+4241,Data Analyst,130978,CT,United Kingdom,True,United Kingdom,"['Kubernetes', 'Linux', 'PyTorch']",Bachelor,2024-08-04,Algorithmic Solutions,False,High,degree required
+4250,Data Analyst,56922,CT,Israel,True,Israel,"['Linux', 'Python', 'Kubernetes']",Associate,2024-02-02,Advanced Robotics,True,Mid,degree required
+4277,Data Analyst,161808,PT,Switzerland,False,Netherlands,"['SQL', 'Scala', 'Git', 'Azure', 'Spark']",PhD,2024-07-13,Neural Networks Co,True,High,degree required
+4304,Data Analyst,336904,CT,United States,False,United States,"['Python', 'TensorFlow', 'Data Visualization', 'PyTorch']",Master,2024-03-02,Predictive Systems,True,High,degree required
+4316,Data Analyst,48405,FL,Ireland,True,Ireland,"['PyTorch', 'Python', 'Scala', 'Git']",Master,2024-04-21,Cloud AI Solutions,True,Low,degree required
+4358,Data Analyst,103493,CT,United Kingdom,False,United Kingdom,"['Spark', 'SQL', 'Computer Vision', 'GCP']",PhD,2025-03-13,Digital Transformation LLC,True,High,degree required
+4381,Data Analyst,91188,CT,Japan,True,Japan,"['Python', 'Kubernetes', 'Linux', 'TensorFlow']",Bachelor,2024-11-09,Cloud AI Solutions,True,Mid,degree required
+4394,Data Analyst,64945,CT,Germany,True,Germany,"['Hadoop', 'Kubernetes', 'SQL']",Master,2024-02-21,Autonomous Tech,True,Mid,degree required
+4410,Data Analyst,159151,FL,Singapore,True,Singapore,"['Kubernetes', 'Scala', 'Azure', 'Hadoop']",Master,2024-02-21,Quantum Computing Inc,False,High,degree required
+4430,Data Analyst,159394,CT,Japan,False,Ireland,"['Python', 'SQL', 'Tableau', 'Git', 'Data Visualization']",Associate,2024-04-19,Digital Transformation LLC,True,High,degree required
+4474,Data Analyst,118129,FT,France,False,France,"['Git', 'SQL', 'NLP']",Associate,2024-10-13,DeepTech Ventures,True,High,degree required
+4493,Data Analyst,71676,FT,Germany,True,Germany,"['Python', 'Spark', 'Linux', 'Scala', 'SQL']",Associate,2024-09-29,TechCorp Inc,True,Mid,degree required
+4495,Data Analyst,113285,PT,South Korea,True,South Korea,"['SQL', 'MLOps', 'Scala', 'Azure']",Master,2024-07-09,TechCorp Inc,True,High,degree required
+4520,Data Analyst,136675,CT,Netherlands,False,Netherlands,"['Mathematics', 'Python', 'Deep Learning', 'Linux']",Associate,2024-08-15,Future Systems,True,High,degree required
+4560,Data Analyst,105606,PT,Finland,False,Finland,"['Linux', 'Git', 'Mathematics', 'NLP']",Master,2024-04-12,Cognitive Computing,False,High,degree required
+4586,Data Analyst,51332,PT,Ireland,True,India,"['NLP', 'Mathematics', 'Python']",Bachelor,2024-09-02,DataVision Ltd,True,Mid,degree required
+4589,Data Analyst,64661,FL,Singapore,True,Singapore,"['MLOps', 'Kubernetes', 'AWS', 'Computer Vision', 'Data Visualization']",Bachelor,2024-02-21,TechCorp Inc,False,Mid,degree required
+4608,Data Analyst,104993,CT,Germany,True,Germany,"['SQL', 'Kubernetes', 'Data Visualization']",Associate,2024-09-20,Cloud AI Solutions,True,High,degree required
+4613,Data Analyst,177602,CT,Netherlands,True,Netherlands,"['Hadoop', 'TensorFlow', 'NLP', 'Mathematics']",Bachelor,2025-01-03,Quantum Computing Inc,False,High,degree required
+4641,Data Analyst,36947,PT,Israel,True,United States,"['Linux', 'Python', 'Mathematics']",Associate,2025-01-19,Advanced Robotics,True,Low,degree required
+4669,Data Analyst,86915,FT,Japan,True,France,"['Kubernetes', 'SQL', 'Java', 'PyTorch']",Associate,2024-07-26,Quantum Computing Inc,True,Mid,degree required
+4672,Data Analyst,91410,FT,India,False,India,"['GCP', 'Git', 'NLP', 'Computer Vision', 'Python']",Associate,2024-12-21,Cloud AI Solutions,True,Mid,degree required
+4733,Data Analyst,117356,FT,Ireland,True,Ireland,"['Spark', 'PyTorch', 'SQL', 'Java', 'Docker']",Bachelor,2024-03-04,Autonomous Tech,True,High,degree required
+4738,Data Analyst,70615,FL,France,True,France,"['MLOps', 'Scala', 'Linux', 'Mathematics']",Associate,2024-10-29,AI Innovations,False,Mid,degree required
+4743,Data Analyst,64753,PT,Germany,False,Germany,"['Docker', 'Java', 'Data Visualization', 'Python', 'Kubernetes']",Bachelor,2024-03-21,Machine Intelligence Group,True,Mid,degree required
+4747,Data Analyst,196902,FT,Denmark,False,Denmark,"['Statistics', 'Java', 'NLP', 'Azure']",Master,2024-01-23,Advanced Robotics,False,High,degree required
+4809,Data Analyst,223675,FL,Australia,True,Australia,"['Data Visualization', 'Python', 'TensorFlow', 'Computer Vision', 'MLOps']",Bachelor,2024-08-22,Neural Networks Co,True,High,degree required
+4811,Data Analyst,129214,FT,Denmark,True,Denmark,"['Linux', 'TensorFlow', 'PyTorch']",PhD,2024-09-20,Autonomous Tech,False,High,degree required
+4823,Data Analyst,58634,PT,India,True,India,"['R', 'Linux', 'Mathematics', 'MLOps']",PhD,2024-12-19,Machine Intelligence Group,False,Mid,degree required
+4833,Data Analyst,122001,CT,United States,True,United States,"['Tableau', 'Kubernetes', 'Linux', 'Deep Learning']",PhD,2024-06-05,AI Innovations,True,High,degree required
+4874,Data Analyst,62731,FL,Japan,False,Japan,"['NLP', 'PyTorch', 'TensorFlow']",PhD,2024-12-27,Digital Transformation LLC,False,Mid,degree required
+4880,Data Analyst,158009,FT,Finland,True,Germany,"['MLOps', 'R', 'GCP', 'Kubernetes', 'Linux']",PhD,2024-06-24,Digital Transformation LLC,False,High,degree required
+4892,Data Analyst,107436,FL,United States,False,Japan,"['Java', 'Kubernetes', 'Computer Vision', 'TensorFlow', 'MLOps']",Bachelor,2024-07-30,Advanced Robotics,False,High,degree required
+4908,Data Analyst,123622,FT,Japan,True,India,"['Git', 'R', 'Deep Learning', 'Mathematics', 'Hadoop']",Master,2024-05-03,DataVision Ltd,False,High,degree required
+4963,Data Analyst,46856,FL,Japan,False,Japan,"['TensorFlow', 'Hadoop', 'Docker', 'Statistics']",Master,2024-12-06,Cognitive Computing,False,Low,degree required
+4971,Data Analyst,105527,FT,Switzerland,True,Switzerland,"['Kubernetes', 'Docker', 'Python']",Master,2024-10-24,Cloud AI Solutions,True,High,degree required
+4984,Data Analyst,46291,FL,Israel,False,Israel,"['Git', 'Java', 'Data Visualization', 'Python']",Master,2025-02-24,Machine Intelligence Group,True,Low,degree required
+5007,Data Analyst,42509,CT,Israel,True,Israel,"['Data Visualization', 'MLOps', 'SQL', 'Computer Vision', 'Kubernetes']",PhD,2024-01-31,Digital Transformation LLC,True,Low,degree required
+5046,Data Analyst,106633,PT,United States,True,Norway,"['Kubernetes', 'MLOps', 'Git']",PhD,2024-04-20,Predictive Systems,False,High,degree required
+5063,Data Analyst,66941,FT,United States,False,United States,"['Kubernetes', 'Hadoop', 'R']",Bachelor,2024-09-09,Digital Transformation LLC,False,Mid,degree required
+5093,Data Analyst,62471,FT,Sweden,True,Sweden,"['Mathematics', 'Git', 'Spark']",PhD,2024-02-24,Smart Analytics,False,Mid,degree required
+5111,Data Analyst,110448,FL,United States,True,Israel,"['Kubernetes', 'SQL', 'Hadoop', 'MLOps']",Bachelor,2024-04-03,AI Innovations,True,High,degree required
+5112,Data Analyst,92265,CT,United Kingdom,False,United Kingdom,"['SQL', 'Statistics', 'PyTorch', 'Mathematics', 'Java']",Associate,2024-04-08,Machine Intelligence Group,True,Mid,degree required
+5133,Data Analyst,100844,FT,Japan,False,United Kingdom,"['Kubernetes', 'PyTorch', 'Python']",PhD,2024-08-20,Quantum Computing Inc,True,High,degree required
+5160,Data Analyst,36523,FT,India,False,Switzerland,"['PyTorch', 'Data Visualization', 'SQL', 'MLOps']",Associate,2024-06-04,Neural Networks Co,True,Low,degree required
+5173,Data Analyst,83323,PT,Japan,True,Singapore,"['Hadoop', 'Docker', 'Tableau', 'Kubernetes', 'Java']",PhD,2024-05-24,Smart Analytics,True,Mid,degree required
+5178,Data Analyst,132353,FL,Norway,True,Netherlands,"['Java', 'Git', 'Scala', 'Mathematics', 'PyTorch']",PhD,2024-10-16,Cloud AI Solutions,False,High,degree required
+5221,Data Analyst,67340,FT,Finland,False,Finland,"['SQL', 'Data Visualization', 'Docker']",Master,2024-08-08,Quantum Computing Inc,True,Mid,degree required
+5235,Data Analyst,168972,CT,United States,True,United States,"['Docker', 'GCP', 'Data Visualization', 'Tableau', 'Git']",Master,2024-09-05,Future Systems,True,High,degree required
+5245,Data Analyst,81232,CT,Israel,False,Israel,"['Statistics', 'Java', 'R', 'SQL', 'Tableau']",Associate,2024-03-08,Algorithmic Solutions,True,Mid,degree required
+5262,Data Analyst,98023,CT,Australia,True,Israel,"['Python', 'Hadoop', 'Tableau']",Bachelor,2025-03-26,Cognitive Computing,True,Mid,degree required
+5274,Data Analyst,122621,PT,Sweden,True,Sweden,"['Java', 'Kubernetes', 'GCP']",Bachelor,2024-03-25,Predictive Systems,False,High,degree required
+5296,Data Analyst,195302,CT,Denmark,False,Denmark,"['Git', 'Linux', 'R', 'Computer Vision']",Master,2025-04-26,Neural Networks Co,False,High,degree required
+5317,Data Analyst,55216,CT,Austria,True,Austria,"['Linux', 'Python', 'NLP']",Associate,2024-07-25,Cloud AI Solutions,True,Mid,degree required
+5320,Data Analyst,74375,CT,China,False,China,"['Spark', 'Linux', 'Tableau', 'MLOps', 'PyTorch']",Associate,2024-08-08,TechCorp Inc,True,Mid,degree required
+5344,Data Analyst,122735,PT,Israel,True,Japan,"['Spark', 'Deep Learning', 'Kubernetes', 'Azure']",Bachelor,2025-03-09,AI Innovations,False,High,degree required
+5353,Data Analyst,160445,FT,Sweden,True,Israel,"['Java', 'Kubernetes', 'MLOps', 'R', 'Computer Vision']",Bachelor,2025-04-04,TechCorp Inc,False,High,degree required
+5369,Data Analyst,102198,CT,Canada,True,South Korea,"['Linux', 'Mathematics', 'Git', 'Kubernetes', 'PyTorch']",Master,2024-08-19,Algorithmic Solutions,False,High,degree required
+5398,Data Analyst,145481,CT,Switzerland,True,South Korea,"['Python', 'Data Visualization', 'Kubernetes', 'Java']",Master,2024-01-18,Digital Transformation LLC,True,High,degree required
+5405,Data Analyst,96548,FL,France,False,France,"['Azure', 'Git', 'Tableau', 'Data Visualization']",Bachelor,2024-02-04,AI Innovations,True,Mid,degree required
+5409,Data Analyst,70390,FT,Sweden,True,South Korea,"['PyTorch', 'Java', 'Computer Vision', 'GCP']",Master,2025-03-13,DeepTech Ventures,False,Mid,degree required
+5414,Data Analyst,68334,FT,China,True,China,"['Deep Learning', 'Statistics', 'Tableau', 'MLOps', 'PyTorch']",PhD,2024-12-03,Cloud AI Solutions,True,Mid,degree required
+5417,Data Analyst,77776,PT,Australia,True,Germany,"['SQL', 'Python', 'Kubernetes', 'Linux', 'Scala']",PhD,2024-11-23,Algorithmic Solutions,True,Mid,degree required
+5450,Data Analyst,62980,FT,Australia,True,Australia,"['Kubernetes', 'Python', 'Computer Vision', 'TensorFlow', 'Linux']",Associate,2024-12-10,Future Systems,True,Mid,degree required
+5505,Data Analyst,63872,PT,United Kingdom,True,South Korea,"['Tableau', 'Computer Vision', 'Python', 'Azure', 'AWS']",Bachelor,2024-04-15,DeepTech Ventures,True,Mid,degree required
+5518,Data Analyst,112477,CT,Norway,True,Canada,"['Git', 'AWS', 'Kubernetes', 'Scala', 'Python']",Associate,2024-12-28,DeepTech Ventures,True,High,degree required
+5524,Data Analyst,209982,FT,Canada,True,Canada,"['Scala', 'NLP', 'Java', 'Data Visualization']",PhD,2024-09-27,Predictive Systems,False,High,degree required
+5528,Data Analyst,188552,CT,Sweden,True,Sweden,"['GCP', 'Data Visualization', 'Tableau', 'Java', 'Deep Learning']",PhD,2024-11-13,Future Systems,True,High,degree required
+5588,Data Analyst,68180,PT,Austria,True,Austria,"['SQL', 'Hadoop', 'NLP', 'Python', 'Deep Learning']",PhD,2024-11-11,Autonomous Tech,True,Mid,degree required
+5591,Data Analyst,95190,FL,Austria,False,Austria,"['SQL', 'Java', 'Computer Vision', 'Deep Learning']",Bachelor,2025-04-24,Quantum Computing Inc,True,Mid,degree required
+5625,Data Analyst,182423,CT,Netherlands,False,Netherlands,"['NLP', 'PyTorch', 'Data Visualization']",Associate,2024-02-04,Cloud AI Solutions,False,High,degree required
+5643,Data Analyst,80885,CT,India,True,United States,"['Spark', 'AWS', 'R', 'Hadoop']",Master,2024-04-11,Autonomous Tech,False,Mid,degree required
+5704,Data Analyst,112500,FL,United States,True,Germany,"['Java', 'Scala', 'Computer Vision', 'Linux', 'Tableau']",Master,2025-02-07,Cognitive Computing,True,High,degree required
+5740,Data Analyst,96275,CT,Finland,True,Israel,"['SQL', 'Linux', 'Hadoop', 'Scala', 'Kubernetes']",Master,2024-05-18,Cloud AI Solutions,True,Mid,degree required
+5751,Data Analyst,325119,CT,United States,False,United States,"['PyTorch', 'TensorFlow', 'Linux']",Associate,2025-02-27,DataVision Ltd,False,High,degree required
+5775,Data Analyst,136105,PT,France,True,France,"['Kubernetes', 'Python', 'TensorFlow', 'Statistics', 'Git']",Bachelor,2024-01-11,Future Systems,True,High,degree required
+5782,Data Analyst,51057,FL,Finland,False,Finland,"['Statistics', 'Scala', 'Tableau', 'Azure']",PhD,2025-03-16,Predictive Systems,True,Mid,degree required
+5801,Data Analyst,48152,PT,India,True,India,"['AWS', 'Spark', 'Linux', 'PyTorch']",Master,2025-01-20,Advanced Robotics,False,Low,degree required
+5823,Data Analyst,92625,FL,France,True,France,"['PyTorch', 'AWS', 'SQL', 'Scala', 'TensorFlow']",Master,2024-04-24,Digital Transformation LLC,True,Mid,degree required
+5833,Data Analyst,103487,FL,Canada,True,Canada,"['Spark', 'Python', 'Linux', 'TensorFlow']",Bachelor,2025-04-20,AI Innovations,True,High,degree required
+5865,Data Analyst,48363,PT,Japan,True,Ireland,"['R', 'NLP', 'SQL', 'Docker', 'PyTorch']",Master,2024-10-23,Quantum Computing Inc,True,Low,degree required
+5891,Data Analyst,200530,FT,Australia,True,Australia,"['Python', 'Azure', 'MLOps', 'Tableau']",Master,2024-12-11,Advanced Robotics,True,High,degree required
+5905,Data Analyst,94754,PT,Ireland,True,Ireland,"['Computer Vision', 'Python', 'Azure', 'R', 'Mathematics']",Master,2024-11-15,Machine Intelligence Group,True,Mid,degree required
+5938,Data Analyst,232905,FT,Singapore,True,Singapore,"['Mathematics', 'Deep Learning', 'Tableau', 'TensorFlow']",Associate,2024-08-08,AI Innovations,True,High,degree required
+5955,Data Analyst,110484,CT,United Kingdom,True,United Kingdom,"['Mathematics', 'Kubernetes', 'SQL', 'Statistics', 'MLOps']",Bachelor,2024-01-27,Algorithmic Solutions,True,High,degree required
+5956,Data Analyst,42445,PT,India,True,India,"['SQL', 'Git', 'Tableau', 'AWS', 'PyTorch']",Bachelor,2024-10-01,Cognitive Computing,True,Low,degree required
+5974,Data Analyst,32542,PT,Austria,True,Austria,"['Kubernetes', 'Scala', 'Tableau', 'R', 'GCP']",Bachelor,2024-08-09,Predictive Systems,True,Low,degree required
+5977,Data Analyst,95031,FL,Germany,True,Germany,"['Mathematics', 'Python', 'R', 'AWS', 'Kubernetes']",Associate,2024-05-07,Predictive Systems,True,Mid,degree required
+5997,Data Analyst,75345,CT,India,False,India,"['NLP', 'Python', 'Data Visualization', 'Deep Learning', 'Linux']",Bachelor,2024-04-30,Cognitive Computing,True,Mid,degree required
+6014,Data Analyst,66820,FT,Singapore,False,Singapore,"['Scala', 'NLP', 'GCP', 'Hadoop', 'TensorFlow']",Master,2024-09-12,DeepTech Ventures,False,Mid,degree required
+6020,Data Analyst,199374,PT,Australia,True,India,"['Kubernetes', 'Linux', 'Data Visualization', 'Scala', 'SQL']",Master,2024-10-19,Algorithmic Solutions,True,High,degree required
+6082,Data Analyst,71297,CT,France,True,France,"['Tableau', 'Statistics', 'Python', 'Spark', 'Kubernetes']",Master,2024-09-20,Advanced Robotics,True,Mid,degree required
+6149,Data Analyst,79564,PT,Israel,False,Israel,"['Mathematics', 'TensorFlow', 'Linux', 'AWS', 'Deep Learning']",Bachelor,2025-04-22,Digital Transformation LLC,False,Mid,degree required
+6150,Data Analyst,71665,PT,Ireland,True,Ireland,"['Java', 'Linux', 'NLP']",PhD,2024-07-01,Future Systems,False,Mid,degree required
+6176,Data Analyst,92409,FT,Singapore,True,Singapore,"['MLOps', 'AWS', 'Kubernetes', 'Python', 'Java']",Associate,2024-04-05,Autonomous Tech,True,Mid,degree required
+6181,Data Analyst,96865,FL,Australia,True,Australia,"['AWS', 'TensorFlow', 'Java', 'Hadoop']",Bachelor,2024-03-01,Predictive Systems,False,Mid,degree required
+6189,Data Analyst,193277,CT,Sweden,True,Sweden,"['Python', 'Scala', 'Linux', 'TensorFlow', 'Spark']",PhD,2024-03-22,DeepTech Ventures,True,High,degree required
+6224,Data Analyst,133631,FT,Switzerland,True,Switzerland,"['Linux', 'Scala', 'Java']",Master,2024-04-23,Predictive Systems,False,High,degree required
+6227,Data Analyst,194251,FL,United States,True,Netherlands,"['Hadoop', 'Python', 'GCP']",PhD,2024-02-25,Predictive Systems,True,High,degree required
+6242,Data Analyst,124458,CT,Norway,True,Norway,"['Spark', 'R', 'PyTorch', 'Azure', 'NLP']",Master,2024-09-19,Machine Intelligence Group,False,High,degree required
+6280,Data Analyst,144165,PT,South Korea,True,South Korea,"['Spark', 'Azure', 'Linux', 'Kubernetes']",Master,2025-01-04,DeepTech Ventures,False,High,degree required
+6290,Data Analyst,34670,CT,India,False,India,"['NLP', 'Kubernetes', 'PyTorch', 'Mathematics']",PhD,2025-04-15,TechCorp Inc,False,Low,degree required
+6335,Data Analyst,87777,PT,Germany,True,Germany,"['Python', 'R', 'NLP']",Bachelor,2024-09-25,TechCorp Inc,True,Mid,degree required
+6350,Data Analyst,65245,CT,Australia,True,Australia,"['MLOps', 'Kubernetes', 'Azure', 'Computer Vision']",Associate,2024-09-15,Smart Analytics,False,Mid,degree required
+6352,Data Analyst,108002,PT,France,True,France,"['Kubernetes', 'GCP', 'R']",Master,2025-04-02,Cognitive Computing,False,High,degree required
+6359,Data Analyst,131714,FT,Singapore,False,Singapore,"['Java', 'Git', 'PyTorch']",PhD,2024-04-14,Cloud AI Solutions,False,High,degree required
+6445,Data Analyst,250699,CT,United Kingdom,True,South Korea,"['Python', 'R', 'MLOps', 'Git']",PhD,2024-06-16,Predictive Systems,True,High,degree required
+6446,Data Analyst,49082,CT,Austria,True,Austria,"['Linux', 'SQL', 'Python', 'Hadoop']",Associate,2024-05-10,Future Systems,True,Low,degree required
+6476,Data Analyst,71961,FL,Finland,False,Canada,"['Docker', 'Kubernetes', 'Linux']",Master,2024-10-06,Cognitive Computing,False,Mid,degree required
+6526,Data Analyst,97667,FL,Sweden,True,Ireland,"['Data Visualization', 'MLOps', 'Docker', 'Deep Learning']",Associate,2025-03-13,Smart Analytics,False,Mid,degree required
+6553,Data Analyst,104409,FT,Austria,True,Austria,"['Hadoop', 'Kubernetes', 'Mathematics', 'TensorFlow', 'Java']",PhD,2025-01-10,Cloud AI Solutions,False,High,degree required
+6587,Data Analyst,161600,CT,Norway,False,Finland,"['Python', 'Scala', 'Deep Learning']",PhD,2024-06-19,Digital Transformation LLC,True,High,degree required
+6588,Data Analyst,109381,PT,Israel,True,Israel,"['NLP', 'GCP', 'Docker', 'MLOps']",Associate,2024-12-12,DataVision Ltd,False,High,degree required
+6606,Data Analyst,73542,PT,Austria,True,Austria,"['Tableau', 'Mathematics', 'Kubernetes', 'Data Visualization']",Master,2025-02-24,DataVision Ltd,True,Mid,degree required
+6607,Data Analyst,185460,PT,Norway,True,Norway,"['Computer Vision', 'Hadoop', 'MLOps', 'Docker']",Master,2024-09-20,TechCorp Inc,False,High,degree required
+6618,Data Analyst,77350,CT,Finland,True,Finland,"['Git', 'Kubernetes', 'Data Visualization', 'R', 'Tableau']",Associate,2025-04-09,Future Systems,True,Mid,degree required
+6633,Data Analyst,185271,FL,Denmark,True,Denmark,"['PyTorch', 'SQL', 'Deep Learning']",Bachelor,2024-03-09,AI Innovations,True,High,degree required
+6672,Data Analyst,62969,FL,Netherlands,True,Netherlands,"['TensorFlow', 'Java', 'SQL', 'Linux']",PhD,2024-09-21,Algorithmic Solutions,True,Mid,degree required
+6685,Data Analyst,76935,FL,United States,True,Japan,"['GCP', 'Spark', 'Deep Learning', 'TensorFlow', 'Statistics']",Bachelor,2024-03-06,Digital Transformation LLC,False,Mid,degree required
+6728,Data Analyst,122064,PT,Austria,True,Austria,"['Deep Learning', 'Scala', 'Statistics', 'Docker']",PhD,2024-12-01,Machine Intelligence Group,False,High,degree required
+6824,Data Analyst,55725,PT,Germany,True,Germany,"['Docker', 'Computer Vision', 'R']",Master,2024-07-01,Predictive Systems,False,Mid,degree required
+6852,Data Analyst,113254,CT,China,True,China,"['SQL', 'Spark', 'GCP', 'Git', 'Scala']",Bachelor,2024-01-31,TechCorp Inc,True,High,degree required
+6890,Data Analyst,113053,CT,Switzerland,False,Switzerland,"['Git', 'PyTorch', 'Tableau', 'TensorFlow', 'Java']",Associate,2024-05-14,Neural Networks Co,True,High,degree required
+6944,Data Analyst,91384,PT,China,False,China,"['Data Visualization', 'TensorFlow', 'Kubernetes', 'Hadoop', 'Azure']",Bachelor,2024-01-28,AI Innovations,False,Mid,degree required
+6971,Data Analyst,59594,FT,Japan,True,South Korea,"['Kubernetes', 'GCP', 'NLP', 'Computer Vision']",Associate,2024-07-14,Cognitive Computing,False,Mid,degree required
+6979,Data Analyst,84655,FL,Australia,False,Israel,"['Java', 'Git', 'R', 'Computer Vision', 'SQL']",Bachelor,2024-03-24,Neural Networks Co,True,Mid,degree required
+6988,Data Analyst,131397,CT,China,False,China,"['Deep Learning', 'Java', 'GCP', 'Kubernetes', 'Spark']",Associate,2024-08-04,Predictive Systems,False,High,degree required
+7002,Data Analyst,39623,FL,Ireland,False,France,"['Linux', 'Java', 'Scala', 'GCP', 'Spark']",PhD,2024-03-09,Smart Analytics,False,Low,degree required
+7060,Data Analyst,127606,PT,Sweden,True,Sweden,"['Computer Vision', 'Python', 'Linux', 'TensorFlow', 'Tableau']",Associate,2024-09-23,Cognitive Computing,True,High,degree required
+7070,Data Analyst,98982,CT,Netherlands,True,India,"['TensorFlow', 'Python', 'AWS', 'Linux', 'Tableau']",Bachelor,2025-02-15,TechCorp Inc,True,Mid,degree required
+7071,Data Analyst,305527,PT,Switzerland,True,Austria,"['R', 'Kubernetes', 'Git', 'Deep Learning']",Master,2024-11-20,Smart Analytics,False,High,degree required
+7076,Data Analyst,200226,PT,Canada,False,Canada,"['Kubernetes', 'Statistics', 'R', 'Python']",Associate,2025-04-05,Machine Intelligence Group,True,High,degree required
+7094,Data Analyst,210317,FT,Denmark,False,Denmark,"['SQL', 'MLOps', 'PyTorch', 'Hadoop', 'TensorFlow']",PhD,2024-05-05,Machine Intelligence Group,True,High,degree required
+7098,Data Analyst,107496,PT,United Kingdom,False,United Kingdom,"['Deep Learning', 'Git', 'Docker']",Associate,2024-01-30,Machine Intelligence Group,False,High,degree required
+7115,Data Analyst,84398,FT,Switzerland,False,Switzerland,"['Java', 'Hadoop', 'MLOps', 'R']",Bachelor,2024-02-09,Predictive Systems,False,Mid,degree required
+7117,Data Analyst,158378,FT,Norway,True,Norway,"['GCP', 'Kubernetes', 'Azure', 'TensorFlow']",Master,2024-08-30,Autonomous Tech,False,High,degree required
+7153,Data Analyst,76784,CT,Finland,True,Finland,"['Java', 'R', 'SQL']",Associate,2024-02-04,Digital Transformation LLC,True,Mid,degree required
+7208,Data Analyst,120715,CT,Australia,False,Switzerland,"['Kubernetes', 'PyTorch', 'Computer Vision']",PhD,2024-06-29,Neural Networks Co,False,High,degree required
+7211,Data Analyst,154228,FL,Denmark,True,Denmark,"['Git', 'Python', 'TensorFlow']",Master,2024-03-13,TechCorp Inc,True,High,degree required
+7212,Data Analyst,200731,FT,Switzerland,False,Switzerland,"['GCP', 'SQL', 'MLOps', 'Mathematics', 'R']",Bachelor,2024-01-25,DataVision Ltd,True,High,degree required
+7229,Data Analyst,54451,PT,Japan,False,Japan,"['R', 'Docker', 'Statistics']",Master,2024-01-26,TechCorp Inc,False,Mid,degree required
+7248,Data Analyst,202533,FT,United Kingdom,False,United Kingdom,"['GCP', 'SQL', 'Mathematics']",Master,2024-06-16,Cloud AI Solutions,True,High,degree required
+7266,Data Analyst,70838,FL,France,True,France,"['Azure', 'Computer Vision', 'SQL']",Master,2024-10-27,AI Innovations,True,Mid,degree required
+7294,Data Analyst,172069,CT,Finland,True,Finland,"['Git', 'Kubernetes', 'PyTorch', 'Java', 'Linux']",Bachelor,2024-08-20,DeepTech Ventures,False,High,degree required
+7305,Data Analyst,67967,FT,Sweden,True,United Kingdom,"['Hadoop', 'Kubernetes', 'Data Visualization']",Master,2024-09-06,Predictive Systems,False,Mid,degree required
+7410,Data Analyst,176235,FT,South Korea,True,France,"['Scala', 'Computer Vision', 'Linux']",PhD,2024-05-04,Predictive Systems,False,High,degree required
+7412,Data Analyst,101466,FL,Finland,False,Finland,"['Kubernetes', 'Linux', 'R', 'Azure']",Master,2024-01-02,AI Innovations,False,High,degree required
+7413,Data Analyst,113856,FL,Netherlands,True,Netherlands,"['Docker', 'MLOps', 'Python', 'GCP']",Associate,2025-02-17,Algorithmic Solutions,True,High,degree required
+7428,Data Analyst,44718,PT,India,False,Denmark,"['NLP', 'Docker', 'Kubernetes', 'MLOps']",PhD,2024-02-04,Advanced Robotics,False,Low,degree required
+7441,Data Analyst,96090,PT,Finland,True,Netherlands,"['Statistics', 'TensorFlow', 'R', 'Scala']",PhD,2024-08-30,Smart Analytics,False,Mid,degree required
+7444,Data Analyst,134669,PT,Netherlands,True,Netherlands,"['Kubernetes', 'PyTorch', 'AWS', 'Statistics', 'Scala']",Associate,2025-04-17,Machine Intelligence Group,False,High,degree required
+7456,Data Analyst,156380,FL,Japan,True,Japan,"['Azure', 'Linux', 'Scala']",PhD,2024-10-22,Neural Networks Co,False,High,degree required
+7457,Data Analyst,178054,PT,United States,False,United States,"['Kubernetes', 'AWS', 'Deep Learning']",Master,2024-10-09,Future Systems,False,High,degree required
+7492,Data Analyst,289303,FL,Denmark,True,Denmark,"['Azure', 'Java', 'PyTorch', 'SQL']",PhD,2024-12-05,TechCorp Inc,True,High,degree required
+7526,Data Analyst,105735,FT,Germany,False,Canada,"['Data Visualization', 'Spark', 'Kubernetes', 'Tableau']",Master,2024-06-24,Algorithmic Solutions,True,High,degree required
+7573,Data Analyst,98269,PT,Denmark,False,Sweden,"['Hadoop', 'Python', 'TensorFlow']",PhD,2024-11-07,Algorithmic Solutions,True,Mid,degree required
+7592,Data Analyst,63064,FL,Germany,True,Germany,"['Azure', 'Deep Learning', 'Java', 'Statistics', 'SQL']",Bachelor,2025-04-28,Advanced Robotics,True,Mid,degree required
+7600,Data Analyst,57310,FL,India,False,Canada,"['GCP', 'Java', 'Scala']",Associate,2024-06-12,AI Innovations,False,Mid,degree required
+7615,Data Analyst,46801,FL,Ireland,False,Ireland,"['Python', 'TensorFlow', 'PyTorch', 'Hadoop']",Associate,2024-03-06,Smart Analytics,True,Low,degree required
+7628,Data Analyst,105534,FL,United States,False,United States,"['Azure', 'Statistics', 'TensorFlow']",Bachelor,2024-01-06,Cloud AI Solutions,False,High,degree required
+7634,Data Analyst,85441,CT,Israel,True,Netherlands,"['Azure', 'Linux', 'Mathematics', 'AWS']",PhD,2025-04-25,Machine Intelligence Group,False,Mid,degree required
+7684,Data Analyst,127997,PT,South Korea,False,South Korea,"['Docker', 'Hadoop', 'Linux', 'Azure']",Associate,2024-09-16,DeepTech Ventures,False,High,degree required
+7710,Data Analyst,80286,PT,Finland,True,China,"['Kubernetes', 'SQL', 'AWS', 'Linux']",Master,2024-02-15,Future Systems,True,Mid,degree required
+7753,Data Analyst,188300,CT,United States,False,United States,"['Kubernetes', 'Linux', 'SQL', 'Computer Vision']",PhD,2024-05-22,Quantum Computing Inc,True,High,degree required
+7784,Data Analyst,73834,PT,Sweden,False,Sweden,"['PyTorch', 'Git', 'GCP']",PhD,2025-04-02,Future Systems,False,Mid,degree required
+7885,Data Analyst,91469,CT,United States,False,United States,"['Azure', 'MLOps', 'Python', 'Computer Vision']",PhD,2024-06-20,Cloud AI Solutions,True,Mid,degree required
+7910,Data Analyst,186956,FL,Australia,True,Australia,"['PyTorch', 'TensorFlow', 'MLOps', 'GCP']",Associate,2024-02-15,Predictive Systems,False,High,degree required
+7937,Data Analyst,72171,CT,Australia,True,Australia,"['PyTorch', 'TensorFlow', 'Computer Vision', 'Data Visualization', 'GCP']",Associate,2024-08-17,DataVision Ltd,False,Mid,degree required
+7956,Data Analyst,37541,FT,Finland,False,Finland,"['TensorFlow', 'SQL', 'R', 'Spark']",Bachelor,2025-03-31,Autonomous Tech,True,Low,degree required
+7957,Data Analyst,73964,FT,Singapore,False,Singapore,"['Kubernetes', 'Hadoop', 'Statistics', 'Deep Learning', 'SQL']",Bachelor,2024-12-15,Cognitive Computing,True,Mid,degree required
+7973,Data Analyst,79987,FT,India,True,Israel,"['Java', 'Hadoop', 'Statistics', 'Kubernetes']",Associate,2024-03-26,DeepTech Ventures,False,Mid,degree required
+8006,Data Analyst,75689,PT,Singapore,True,Switzerland,"['Statistics', 'Docker', 'Deep Learning', 'Python']",Master,2024-09-04,Advanced Robotics,True,Mid,degree required
+8015,Data Analyst,67801,PT,Switzerland,False,Switzerland,"['AWS', 'PyTorch', 'SQL']",Master,2024-09-22,Advanced Robotics,True,Mid,degree required
+8018,Data Analyst,41060,CT,Ireland,False,Ireland,"['AWS', 'Statistics', 'SQL', 'MLOps', 'Tableau']",Bachelor,2024-09-27,Predictive Systems,True,Low,degree required
+8040,Data Analyst,89402,PT,Canada,True,Sweden,"['Hadoop', 'Kubernetes', 'Scala']",Master,2024-01-03,AI Innovations,False,Mid,degree required
+8057,Data Analyst,77969,PT,Austria,True,Austria,"['Java', 'Deep Learning', 'Statistics', 'Python']",Master,2024-01-16,DataVision Ltd,True,Mid,degree required
+8083,Data Analyst,134990,FL,Sweden,True,Sweden,"['Hadoop', 'Python', 'Azure', 'TensorFlow', 'NLP']",Bachelor,2024-02-14,Predictive Systems,True,High,degree required
+8107,Data Analyst,100929,PT,Israel,False,France,"['Kubernetes', 'R', 'Computer Vision', 'Docker']",Master,2024-11-30,Cloud AI Solutions,False,High,degree required
+8115,Data Analyst,82435,CT,Norway,True,Norway,"['PyTorch', 'GCP', 'TensorFlow', 'Deep Learning', 'Data Visualization']",Bachelor,2025-04-03,Machine Intelligence Group,False,Mid,degree required
+8129,Data Analyst,74923,FL,South Korea,False,South Korea,"['PyTorch', 'Linux', 'Mathematics']",Master,2024-07-05,DeepTech Ventures,False,Mid,degree required
+8150,Data Analyst,49564,FT,Finland,False,Finland,"['PyTorch', 'SQL', 'Kubernetes']",PhD,2024-09-22,Cloud AI Solutions,True,Low,degree required
+8155,Data Analyst,38334,PT,India,False,India,"['Git', 'Python', 'NLP', 'Linux', 'Computer Vision']",Master,2024-01-31,DataVision Ltd,True,Low,degree required
+8220,Data Analyst,130430,PT,Japan,True,Netherlands,"['Computer Vision', 'Python', 'GCP', 'Java', 'PyTorch']",PhD,2024-03-27,Neural Networks Co,True,High,degree required
+8227,Data Analyst,89656,PT,Israel,True,Israel,"['Git', 'Python', 'AWS', 'MLOps']",Master,2024-10-25,Algorithmic Solutions,True,Mid,degree required
+8240,Data Analyst,115717,FL,Norway,True,Norway,"['Git', 'Python', 'Computer Vision', 'GCP', 'MLOps']",Master,2024-07-12,Algorithmic Solutions,True,High,degree required
+8266,Data Analyst,164201,CT,Norway,True,Norway,"['Data Visualization', 'Spark', 'AWS', 'Deep Learning', 'SQL']",PhD,2025-02-10,Cloud AI Solutions,True,High,degree required
+8293,Data Analyst,130199,CT,Ireland,True,Ireland,"['Azure', 'Tableau', 'TensorFlow', 'Deep Learning']",Bachelor,2025-01-15,TechCorp Inc,True,High,degree required
+8295,Data Analyst,128810,FT,South Korea,True,United Kingdom,"['R', 'SQL', 'NLP']",Master,2024-08-06,Quantum Computing Inc,True,High,degree required
+8301,Data Analyst,87786,CT,South Korea,True,South Korea,"['SQL', 'AWS', 'TensorFlow', 'Azure', 'GCP']",PhD,2024-04-11,Advanced Robotics,True,Mid,degree required
+8304,Data Analyst,47052,CT,Australia,False,Australia,"['PyTorch', 'Mathematics', 'Deep Learning', 'Git']",PhD,2024-12-20,Quantum Computing Inc,False,Low,degree required
+8311,Data Analyst,60382,PT,Israel,True,Israel,"['Linux', 'GCP', 'Git', 'Java', 'Python']",PhD,2025-01-24,Advanced Robotics,True,Mid,degree required
+8378,Data Analyst,89277,CT,Canada,False,Canada,"['Azure', 'Python', 'R', 'Computer Vision']",Master,2024-01-20,Cloud AI Solutions,True,Mid,degree required
+8409,Data Analyst,98255,CT,Finland,False,Finland,"['SQL', 'MLOps', 'Docker', 'PyTorch', 'Statistics']",PhD,2025-03-17,Predictive Systems,True,Mid,degree required
+8411,Data Analyst,46924,FT,India,True,India,"['Deep Learning', 'Computer Vision', 'Tableau']",Bachelor,2024-08-28,Neural Networks Co,True,Low,degree required
+8428,Data Analyst,68584,CT,United Kingdom,False,Finland,"['Docker', 'NLP', 'R']",Associate,2024-07-31,Digital Transformation LLC,False,Mid,degree required
+8431,Data Analyst,193345,FL,India,True,India,"['TensorFlow', 'Mathematics', 'Azure', 'AWS', 'Python']",Bachelor,2024-06-23,Autonomous Tech,True,High,degree required
+8490,Data Analyst,161148,FL,Germany,True,Germany,"['Azure', 'PyTorch', 'Linux']",Bachelor,2025-01-05,Algorithmic Solutions,False,High,degree required
+8518,Data Analyst,157507,PT,Singapore,True,Singapore,"['Scala', 'Data Visualization', 'Docker', 'Azure', 'Deep Learning']",PhD,2024-09-28,TechCorp Inc,False,High,degree required
+8567,Data Analyst,103580,PT,Norway,False,Norway,"['R', 'Docker', 'Computer Vision']",Master,2024-09-27,TechCorp Inc,False,High,degree required
+8609,Data Analyst,140985,FT,Austria,True,Austria,"['Scala', 'Python', 'MLOps']",Master,2024-08-20,Machine Intelligence Group,True,High,degree required
+8611,Data Analyst,47646,FL,Austria,True,Austria,"['Scala', 'AWS', 'Linux', 'Hadoop', 'Git']",Bachelor,2025-04-23,Machine Intelligence Group,False,Low,degree required
+8612,Data Analyst,61672,FL,India,True,India,"['Spark', 'SQL', 'R', 'Java', 'NLP']",Bachelor,2024-07-17,Algorithmic Solutions,True,Mid,degree required
+8642,Data Analyst,88503,PT,United States,True,United States,"['SQL', 'Statistics', 'Deep Learning', 'PyTorch', 'Azure']",Bachelor,2025-04-25,Advanced Robotics,True,Mid,degree required
+8666,Data Analyst,155489,FL,Denmark,True,Denmark,"['Data Visualization', 'MLOps', 'AWS', 'R']",Bachelor,2024-07-09,Quantum Computing Inc,False,High,degree required
+8671,Data Analyst,55461,FL,India,True,Denmark,"['MLOps', 'Statistics', 'Git']",Master,2024-02-17,Quantum Computing Inc,False,Mid,degree required
+8725,Data Analyst,189575,FT,Australia,False,Australia,"['AWS', 'Data Visualization', 'Deep Learning']",Master,2024-04-30,Cognitive Computing,False,High,degree required
+8741,Data Analyst,116589,CT,Denmark,True,Australia,"['Spark', 'GCP', 'Tableau', 'NLP', 'Scala']",Master,2024-08-31,Cloud AI Solutions,True,High,degree required
+8756,Data Analyst,84425,PT,Netherlands,True,Netherlands,"['GCP', 'Git', 'Data Visualization', 'Linux']",Associate,2024-09-06,Advanced Robotics,False,Mid,degree required
+8828,Data Analyst,32666,FL,South Korea,False,South Korea,"['Python', 'TensorFlow', 'Azure', 'AWS', 'MLOps']",Bachelor,2025-01-04,Future Systems,True,Low,degree required
+8878,Data Analyst,235903,PT,United Kingdom,True,United Kingdom,"['Kubernetes', 'Mathematics', 'Spark', 'Deep Learning']",PhD,2024-04-29,Smart Analytics,False,High,degree required
+8886,Data Analyst,102836,FL,South Korea,False,Denmark,"['MLOps', 'Azure', 'SQL', 'Tableau', 'Mathematics']",PhD,2025-04-19,Predictive Systems,True,High,degree required
+8914,Data Analyst,65948,FT,South Korea,False,South Korea,"['Python', 'SQL', 'Data Visualization', 'TensorFlow']",Bachelor,2024-02-02,Algorithmic Solutions,True,Mid,degree required
+8931,Data Analyst,213611,FL,Switzerland,False,Switzerland,"['PyTorch', 'TensorFlow', 'Linux', 'Statistics']",PhD,2024-09-09,DeepTech Ventures,False,High,degree required
+8993,Data Analyst,134247,CT,Singapore,True,Singapore,"['Docker', 'Git', 'MLOps']",PhD,2025-02-15,Cognitive Computing,False,High,degree required
+9008,Data Analyst,177183,FL,Denmark,False,Denmark,"['Linux', 'Scala', 'Docker', 'AWS']",Associate,2024-03-15,Autonomous Tech,False,High,degree required
+9035,Data Analyst,118123,PT,United States,True,United States,"['Linux', 'R', 'Computer Vision', 'Hadoop', 'Mathematics']",Master,2024-11-18,Cloud AI Solutions,False,High,degree required
+9077,Data Analyst,41812,CT,Israel,True,Israel,"['PyTorch', 'Python', 'Git']",Bachelor,2024-09-04,Predictive Systems,True,Low,degree required
+9081,Data Analyst,90728,FL,Norway,True,Israel,"['Tableau', 'SQL', 'Linux', 'Computer Vision', 'AWS']",PhD,2024-10-11,Future Systems,True,Mid,degree required
+9130,Data Analyst,64346,FL,China,False,China,"['Linux', 'TensorFlow', 'Python']",Associate,2024-05-16,Smart Analytics,True,Mid,degree required
+9145,Data Analyst,154360,CT,United Kingdom,True,Singapore,"['Data Visualization', 'Hadoop', 'GCP', 'Computer Vision', 'Linux']",PhD,2024-10-22,Quantum Computing Inc,False,High,degree required
+9170,Data Analyst,77161,FT,Israel,False,Germany,"['Docker', 'Deep Learning', 'Linux', 'Computer Vision']",Associate,2024-02-21,Cloud AI Solutions,False,Mid,degree required
+9183,Data Analyst,77785,FT,United States,True,United States,"['Linux', 'SQL', 'Tableau']",Bachelor,2024-02-24,Predictive Systems,True,Mid,degree required
+9189,Data Analyst,57920,CT,India,True,India,"['Linux', 'AWS', 'NLP', 'R', 'GCP']",Associate,2024-04-18,Neural Networks Co,False,Mid,degree required
+9195,Data Analyst,130903,FT,Finland,True,Austria,"['Java', 'Scala', 'Mathematics', 'Python']",Bachelor,2024-09-30,Cognitive Computing,True,High,degree required
+9223,Data Analyst,101699,PT,China,True,China,"['GCP', 'Git', 'Spark', 'SQL']",Master,2025-02-04,Cloud AI Solutions,True,High,degree required
+9224,Data Analyst,183404,FT,India,True,Switzerland,"['SQL', 'GCP', 'Azure', 'PyTorch']",Bachelor,2024-08-26,Quantum Computing Inc,True,High,degree required
+9231,Data Analyst,36986,CT,China,False,China,"['Data Visualization', 'Java', 'Tableau', 'TensorFlow', 'Docker']",Master,2025-01-23,AI Innovations,True,Low,degree required
+9253,Data Analyst,51148,FL,France,True,France,"['Python', 'Spark', 'NLP']",Bachelor,2025-02-28,Digital Transformation LLC,True,Mid,degree required
+9287,Data Analyst,166659,FT,United States,True,United States,"['Linux', 'AWS', 'Deep Learning', 'Python']",Associate,2024-04-15,Digital Transformation LLC,True,High,degree required
+9317,Data Analyst,63046,CT,Ireland,False,Ireland,"['TensorFlow', 'Tableau', 'Kubernetes', 'Linux']",PhD,2025-03-05,Future Systems,True,Mid,degree required
+9318,Data Analyst,79192,PT,Japan,False,Switzerland,"['Java', 'Deep Learning', 'NLP', 'Scala', 'Computer Vision']",Master,2025-03-18,Machine Intelligence Group,False,Mid,degree required
+9333,Data Analyst,124064,FL,Germany,True,Germany,"['Scala', 'Git', 'Java', 'Spark']",Associate,2024-09-08,Digital Transformation LLC,False,High,degree required
+9349,Data Analyst,57999,CT,Singapore,False,Singapore,"['Data Visualization', 'Java', 'TensorFlow', 'Computer Vision']",Associate,2024-09-16,DataVision Ltd,False,Mid,degree required
+9386,Data Analyst,106690,PT,Singapore,True,Singapore,"['Java', 'AWS', 'R', 'Computer Vision', 'Azure']",Bachelor,2025-01-07,Cognitive Computing,False,High,degree required
+9392,Data Analyst,122006,PT,Denmark,True,Denmark,"['MLOps', 'Tableau', 'Azure', 'PyTorch', 'Data Visualization']",PhD,2024-12-18,DeepTech Ventures,True,High,degree required
+9413,Data Analyst,92806,CT,France,True,France,"['NLP', 'Python', 'Deep Learning', 'Java']",PhD,2025-01-18,Predictive Systems,True,Mid,degree required
+9415,Data Analyst,76951,FL,United Kingdom,False,United Kingdom,"['Scala', 'Computer Vision', 'MLOps', 'Kubernetes', 'Git']",Master,2025-03-27,Neural Networks Co,False,Mid,degree required
+9425,Data Analyst,86493,FT,Japan,False,Japan,"['Hadoop', 'R', 'Scala', 'Java', 'NLP']",PhD,2024-07-05,Quantum Computing Inc,False,Mid,degree required
+9459,Data Analyst,94045,PT,Singapore,True,Singapore,"['TensorFlow', 'Linux', 'Docker']",Master,2024-06-19,DataVision Ltd,False,Mid,degree required
+9479,Data Analyst,51131,FL,Finland,False,Australia,"['Kubernetes', 'Hadoop', 'Git', 'Azure', 'Linux']",PhD,2024-05-02,DeepTech Ventures,False,Mid,degree required
+9489,Data Analyst,214788,PT,Netherlands,True,Netherlands,"['Docker', 'Azure', 'MLOps', 'Tableau', 'TensorFlow']",Associate,2024-10-13,Algorithmic Solutions,True,High,degree required
+9505,Data Analyst,148386,CT,Canada,False,Japan,"['Python', 'AWS', 'Data Visualization']",Associate,2025-03-21,Cloud AI Solutions,True,High,degree required
+9521,Data Analyst,69760,FT,India,True,Switzerland,"['Tableau', 'SQL', 'PyTorch', 'NLP']",Associate,2024-05-10,Cloud AI Solutions,True,Mid,degree required
+9523,Data Analyst,89120,PT,United States,False,United States,"['NLP', 'SQL', 'MLOps', 'Data Visualization']",PhD,2024-12-16,Neural Networks Co,True,Mid,degree required
+9531,Data Analyst,66601,FL,Finland,False,Finland,"['R', 'Spark', 'MLOps', 'Computer Vision']",Master,2024-03-22,Neural Networks Co,False,Mid,degree required
+9538,Data Analyst,101088,CT,Australia,False,Australia,"['Python', 'Scala', 'Azure']",PhD,2024-09-26,Quantum Computing Inc,True,High,degree required
+9555,Data Analyst,112018,PT,Switzerland,True,Germany,"['Python', 'SQL', 'R', 'MLOps', 'TensorFlow']",Master,2024-03-11,TechCorp Inc,True,High,degree required
+9568,Data Analyst,105958,FL,Denmark,False,Denmark,"['Python', 'Tableau', 'Azure']",Associate,2025-02-26,Future Systems,True,High,degree required
+9604,Data Analyst,133129,FT,Germany,False,Germany,"['Hadoop', 'AWS', 'Computer Vision']",Associate,2025-03-06,Machine Intelligence Group,False,High,degree required
+9621,Data Analyst,89856,PT,Israel,True,Israel,"['Hadoop', 'Scala', 'Kubernetes', 'AWS', 'R']",PhD,2024-03-04,Cloud AI Solutions,False,Mid,degree required
+9624,Data Analyst,136032,FT,United Kingdom,True,United Kingdom,"['Data Visualization', 'Java', 'R']",Associate,2024-05-12,DeepTech Ventures,False,High,degree required
+9642,Data Analyst,176476,PT,Netherlands,True,Netherlands,"['PyTorch', 'AWS', 'Deep Learning', 'Statistics']",PhD,2024-01-09,Neural Networks Co,False,High,degree required
+9682,Data Analyst,168958,FT,Norway,True,Norway,"['Java', 'Kubernetes', 'TensorFlow', 'Statistics']",Master,2024-05-17,Machine Intelligence Group,False,High,degree required
+9697,Data Analyst,55450,FL,Finland,True,Finland,"['AWS', 'Statistics', 'TensorFlow']",Bachelor,2024-12-26,Algorithmic Solutions,False,Mid,degree required
+9704,Data Analyst,142298,CT,Finland,True,Singapore,"['NLP', 'Python', 'TensorFlow']",PhD,2025-03-09,DeepTech Ventures,True,High,degree required
+9709,Data Analyst,248406,PT,Sweden,True,Sweden,"['Python', 'Git', 'TensorFlow', 'Java', 'Docker']",Associate,2024-11-29,Neural Networks Co,True,High,degree required
+9744,Data Analyst,89628,CT,Israel,True,Israel,"['Git', 'AWS', 'GCP']",Associate,2024-02-29,Predictive Systems,False,Mid,degree required
+9765,Data Analyst,156217,PT,Japan,False,Japan,"['Hadoop', 'Kubernetes', 'Java']",Master,2024-09-01,Neural Networks Co,False,High,degree required
+9784,Data Analyst,62036,FL,France,True,Austria,"['Linux', 'GCP', 'Tableau', 'Hadoop', 'Docker']",PhD,2024-08-23,Autonomous Tech,True,Mid,degree required
+9805,Data Analyst,158629,FL,United States,False,India,"['AWS', 'Java', 'Spark', 'Mathematics', 'Computer Vision']",Master,2024-05-25,AI Innovations,False,High,degree required
+9808,Data Analyst,210468,CT,France,False,France,"['Linux', 'Git', 'MLOps', 'Azure']",PhD,2024-06-17,Digital Transformation LLC,False,High,degree required
+9818,Data Analyst,148291,FL,Singapore,True,Singapore,"['GCP', 'Scala', 'Kubernetes', 'NLP', 'Computer Vision']",Bachelor,2025-01-06,DeepTech Ventures,False,High,degree required
+9832,Data Analyst,82780,FT,Norway,True,Norway,"['PyTorch', 'SQL', 'MLOps', 'Statistics']",Bachelor,2024-12-21,Digital Transformation LLC,True,Mid,degree required
+9835,Data Analyst,82065,FL,Australia,False,Australia,"['Statistics', 'NLP', 'R', 'Git']",Bachelor,2024-10-27,TechCorp Inc,False,Mid,degree required
+9838,Data Analyst,104554,PT,Sweden,False,Sweden,"['Python', 'Data Visualization', 'TensorFlow', 'Spark', 'Docker']",Master,2024-11-08,Advanced Robotics,True,High,degree required
+9846,Data Analyst,193320,PT,Singapore,True,Australia,"['Tableau', 'Hadoop', 'Git']",Bachelor,2024-01-17,DataVision Ltd,True,High,degree required
+9898,Data Analyst,41115,FL,Ireland,True,Ireland,"['Deep Learning', 'Tableau', 'Docker', 'Azure', 'Kubernetes']",Associate,2024-03-02,Neural Networks Co,True,Low,degree required
+9914,Data Analyst,53266,FL,Netherlands,False,France,"['GCP', 'Scala', 'NLP', 'Python', 'Kubernetes']",Master,2024-01-06,Quantum Computing Inc,True,Mid,degree required
+9935,Data Analyst,62295,FT,India,True,India,"['Linux', 'Java', 'Deep Learning', 'Statistics']",Associate,2024-10-06,Neural Networks Co,False,Mid,degree required
+9942,Data Analyst,77882,PT,United Kingdom,False,United Kingdom,"['Kubernetes', 'Python', 'MLOps', 'AWS', 'Docker']",Bachelor,2024-08-15,Future Systems,True,Mid,degree required
+10018,Data Analyst,90749,CT,Israel,False,Israel,"['Spark', 'Deep Learning', 'Python']",Bachelor,2024-03-23,AI Innovations,True,Mid,degree required
+10051,Data Analyst,224299,FL,Canada,True,Canada,"['Deep Learning', 'Scala', 'PyTorch']",Bachelor,2024-05-21,Future Systems,False,High,degree required
+10098,Data Analyst,37722,PT,Israel,True,Israel,"['Linux', 'Statistics', 'Data Visualization']",Bachelor,2025-03-28,Algorithmic Solutions,False,Low,degree required
+10118,Data Analyst,56945,PT,Ireland,True,Ireland,"['PyTorch', 'Statistics', 'NLP', 'TensorFlow', 'Java']",Bachelor,2024-04-10,Cognitive Computing,False,Mid,degree required
+10125,Data Analyst,149823,CT,Canada,False,Canada,"['Python', 'Deep Learning', 'Docker']",Associate,2024-06-25,TechCorp Inc,True,High,degree required
+10147,Data Analyst,217159,FL,Denmark,True,Denmark,"['Data Visualization', 'Kubernetes', 'Git', 'Hadoop']",PhD,2024-03-08,Algorithmic Solutions,False,High,degree required
+10208,Data Analyst,43106,CT,South Korea,True,South Korea,"['Computer Vision', 'AWS', 'Docker', 'GCP', 'Azure']",Bachelor,2024-08-13,TechCorp Inc,False,Low,degree required
+10212,Data Analyst,173690,PT,Germany,True,Germany,"['R', 'AWS', 'SQL', 'Data Visualization']",Associate,2024-09-12,Smart Analytics,True,High,degree required
+10216,Data Analyst,151447,CT,Austria,True,Austria,"['Scala', 'Azure', 'Kubernetes']",Master,2025-04-22,TechCorp Inc,False,High,degree required
+10221,Data Analyst,151181,CT,Sweden,False,Sweden,"['Computer Vision', 'Kubernetes', 'Scala', 'Hadoop', 'Linux']",Bachelor,2025-03-13,Smart Analytics,False,High,degree required
+10242,Data Analyst,247006,PT,Denmark,False,Denmark,"['Spark', 'Linux', 'SQL', 'Mathematics']",Master,2024-07-25,Advanced Robotics,True,High,degree required
+10244,Data Analyst,182337,CT,Australia,True,Australia,"['AWS', 'Azure', 'Spark', 'Git']",Master,2024-05-15,Neural Networks Co,False,High,degree required
+10286,Data Analyst,67583,FL,Finland,True,Finland,"['Spark', 'R', 'Git']",Associate,2024-04-16,Neural Networks Co,False,Mid,degree required
+10300,Data Analyst,79415,CT,Japan,False,Japan,"['R', 'Docker', 'SQL', 'AWS', 'Data Visualization']",Bachelor,2024-10-25,Machine Intelligence Group,True,Mid,degree required
+10309,Data Analyst,55800,FT,Israel,True,Israel,"['Java', 'Computer Vision', 'Deep Learning', 'GCP']",PhD,2025-02-07,Machine Intelligence Group,False,Mid,degree required
+10335,Data Analyst,40859,CT,Ireland,True,Ireland,"['Hadoop', 'PyTorch', 'SQL', 'Java', 'MLOps']",Bachelor,2024-02-17,Smart Analytics,True,Low,degree required
+10359,Data Analyst,59067,PT,China,True,China,"['Python', 'Hadoop', 'Computer Vision', 'TensorFlow']",Associate,2024-04-08,Quantum Computing Inc,True,Mid,degree required
+10366,Data Analyst,276657,FT,Denmark,True,Australia,"['NLP', 'R', 'Data Visualization', 'Mathematics']",Master,2024-11-28,DeepTech Ventures,False,High,degree required
+10379,Data Analyst,135592,FT,Austria,False,Austria,"['NLP', 'Statistics', 'SQL']",Associate,2024-01-13,Quantum Computing Inc,True,High,degree required
+10426,Data Analyst,95586,FL,Norway,True,Norway,"['TensorFlow', 'SQL', 'Deep Learning', 'Spark', 'Azure']",Master,2024-11-06,Algorithmic Solutions,True,Mid,degree required
+10428,Data Analyst,43741,FT,Ireland,True,Germany,"['Scala', 'TensorFlow', 'NLP', 'AWS', 'Python']",Associate,2024-03-01,DataVision Ltd,True,Low,degree required
+10448,Data Analyst,165273,CT,Sweden,True,India,"['Kubernetes', 'Tableau', 'Python', 'Docker']",Associate,2024-01-29,TechCorp Inc,True,High,degree required
+10515,Data Analyst,63958,FT,Australia,False,Australia,"['PyTorch', 'Docker', 'MLOps', 'Data Visualization', 'Scala']",Associate,2024-07-30,Neural Networks Co,False,Mid,degree required
+10531,Data Analyst,122010,FT,United Kingdom,True,United Kingdom,"['Kubernetes', 'R', 'Tableau', 'AWS']",Bachelor,2024-09-22,Quantum Computing Inc,True,High,degree required
+10537,Data Analyst,151828,CT,South Korea,True,South Korea,"['Git', 'Python', 'Deep Learning']",Bachelor,2024-09-27,AI Innovations,True,High,degree required
+10559,Data Analyst,97335,FL,Australia,False,Australia,"['AWS', 'Kubernetes', 'MLOps', 'Git']",Associate,2025-03-26,Quantum Computing Inc,False,Mid,degree required
+10579,Data Analyst,89203,FT,Norway,True,Norway,"['TensorFlow', 'Python', 'R', 'SQL', 'Hadoop']",Bachelor,2024-03-19,Cognitive Computing,True,Mid,degree required
+10671,Data Analyst,110989,CT,United Kingdom,True,United Kingdom,"['Deep Learning', 'Computer Vision', 'NLP', 'GCP']",PhD,2024-01-08,Autonomous Tech,False,High,degree required
+10675,Data Analyst,104903,FL,Australia,False,Australia,"['Tableau', 'Java', 'PyTorch']",PhD,2024-04-13,Algorithmic Solutions,True,High,degree required
+10710,Data Analyst,93341,CT,United Kingdom,True,United Kingdom,"['SQL', 'Tableau', 'Java']",PhD,2025-02-16,AI Innovations,True,Mid,degree required
+10728,Data Analyst,57556,FT,Austria,True,Austria,"['Python', 'TensorFlow', 'Data Visualization']",Master,2024-12-18,AI Innovations,True,Mid,degree required
+10746,Data Analyst,177656,FL,Canada,True,Canada,"['GCP', 'Deep Learning', 'MLOps', 'Kubernetes', 'TensorFlow']",PhD,2024-08-25,Autonomous Tech,False,High,degree required
+10752,Data Analyst,170963,FL,Singapore,True,Singapore,"['SQL', 'PyTorch', 'Java', 'Linux', 'Mathematics']",PhD,2024-03-13,Cognitive Computing,True,High,degree required
+10755,Data Analyst,47461,FT,Israel,True,Israel,"['AWS', 'Linux', 'Docker']",Bachelor,2025-04-22,Machine Intelligence Group,False,Low,degree required
+10770,Data Analyst,53730,FT,Austria,True,Denmark,"['Git', 'PyTorch', 'Deep Learning']",Bachelor,2024-01-08,AI Innovations,False,Mid,degree required
+10783,Data Analyst,204259,PT,Switzerland,True,Switzerland,"['Hadoop', 'TensorFlow', 'Python', 'Docker']",Associate,2024-06-25,Algorithmic Solutions,True,High,degree required
+10785,Data Analyst,117834,PT,Japan,True,Japan,"['Tableau', 'PyTorch', 'Kubernetes']",Master,2024-05-14,Future Systems,True,High,degree required
+10798,Data Analyst,38705,CT,Ireland,False,Ireland,"['Docker', 'PyTorch', 'SQL', 'Tableau']",Associate,2024-12-14,Quantum Computing Inc,True,Low,degree required
+10801,Data Analyst,124840,PT,India,False,India,"['SQL', 'Hadoop', 'GCP', 'Tableau', 'Java']",Associate,2025-04-01,Advanced Robotics,True,High,degree required
+10809,Data Analyst,59219,FL,Japan,True,Norway,"['Mathematics', 'SQL', 'Java']",Associate,2024-01-22,Cloud AI Solutions,True,Mid,degree required
+10819,Data Analyst,56672,FT,United Kingdom,True,United Kingdom,"['Linux', 'Docker', 'Statistics', 'Hadoop']",PhD,2024-04-27,DeepTech Ventures,False,Mid,degree required
+10845,Data Analyst,154381,CT,Denmark,True,Denmark,"['Git', 'Kubernetes', 'Azure', 'R', 'Deep Learning']",Associate,2024-11-13,Neural Networks Co,False,High,degree required
+10864,Data Analyst,166470,PT,Denmark,True,South Korea,"['Spark', 'Kubernetes', 'Azure', 'TensorFlow', 'Computer Vision']",PhD,2024-06-13,DeepTech Ventures,False,High,degree required
+10875,Data Analyst,119614,CT,United States,False,United States,"['Git', 'Kubernetes', 'Python', 'Deep Learning']",Master,2025-01-06,AI Innovations,True,High,degree required
+10884,Data Analyst,83359,PT,Japan,True,Japan,"['Statistics', 'Linux', 'Docker', 'Deep Learning']",Master,2024-02-20,Smart Analytics,False,Mid,degree required
+10900,Data Analyst,107539,PT,Netherlands,False,Netherlands,"['Statistics', 'Linux', 'Data Visualization']",Master,2025-04-07,Digital Transformation LLC,False,High,degree required
+10912,Data Analyst,96074,FT,Canada,True,Sweden,"['Python', 'Kubernetes', 'Hadoop']",Master,2024-02-13,Cloud AI Solutions,True,Mid,degree required
+10950,Data Analyst,122071,FT,Finland,True,Israel,"['Python', 'Hadoop', 'Linux']",Associate,2025-03-21,Autonomous Tech,True,High,degree required
+10967,Data Analyst,76669,FL,Sweden,False,Sweden,"['Scala', 'Docker', 'Python']",Bachelor,2025-04-23,Autonomous Tech,True,Mid,degree required
+11008,Data Analyst,64531,FL,South Korea,True,South Korea,"['GCP', 'R', 'Statistics', 'Deep Learning', 'Azure']",PhD,2024-07-02,DataVision Ltd,False,Mid,degree required
+11028,Data Analyst,91981,PT,Norway,False,Norway,"['Python', 'Statistics', 'R', 'MLOps', 'Scala']",PhD,2025-02-12,Autonomous Tech,True,Mid,degree required
+11082,Data Analyst,36480,FT,Israel,True,Israel,"['Docker', 'Tableau', 'PyTorch']",Associate,2025-03-16,Cognitive Computing,True,Low,degree required
+11083,Data Analyst,60239,CT,Israel,True,Israel,"['Python', 'Kubernetes', 'Tableau', 'SQL', 'Git']",Associate,2024-03-24,Cognitive Computing,True,Mid,degree required
+11120,Data Analyst,81765,PT,Netherlands,True,Sweden,"['MLOps', 'Tableau', 'Linux', 'SQL']",Bachelor,2024-07-02,AI Innovations,True,Mid,degree required
+11156,Data Analyst,79464,FL,Ireland,True,Ireland,"['Java', 'Deep Learning', 'R', 'SQL']",Bachelor,2025-01-05,Smart Analytics,True,Mid,degree required
+11188,Data Analyst,81359,FL,Netherlands,False,Australia,"['Deep Learning', 'SQL', 'AWS', 'PyTorch']",Bachelor,2024-09-04,Smart Analytics,True,Mid,degree required
+11269,Data Analyst,83387,FL,Sweden,True,Sweden,"['Python', 'Docker', 'Statistics', 'Mathematics', 'Java']",Master,2025-01-17,Algorithmic Solutions,True,Mid,degree required
+11277,Data Analyst,50189,PT,Finland,True,Finland,"['Statistics', 'R', 'Data Visualization', 'Spark']",Associate,2024-11-29,DataVision Ltd,False,Mid,degree required
+11282,Data Analyst,219748,FL,Canada,False,China,"['Linux', 'Scala', 'R', 'Azure', 'Hadoop']",Master,2024-12-16,Machine Intelligence Group,False,High,degree required
+11291,Data Analyst,344471,CT,United States,True,United States,"['AWS', 'Hadoop', 'Git', 'SQL']",Bachelor,2024-09-10,Autonomous Tech,True,High,degree required
+11326,Data Analyst,98677,FL,China,True,Japan,"['Computer Vision', 'SQL', 'GCP', 'Linux']",Bachelor,2025-04-30,TechCorp Inc,True,Mid,degree required
+11332,Data Analyst,86469,PT,United Kingdom,False,United Kingdom,"['Scala', 'Spark', 'Python', 'Kubernetes', 'GCP']",Master,2025-02-13,AI Innovations,True,Mid,degree required
+11340,Data Analyst,199538,CT,United States,False,Australia,"['NLP', 'SQL', 'Linux']",Bachelor,2024-09-15,DeepTech Ventures,True,High,degree required
+11354,Data Analyst,92532,CT,Japan,True,France,"['AWS', 'Spark', 'SQL', 'Kubernetes', 'Python']",Bachelor,2024-09-27,TechCorp Inc,True,Mid,degree required
+11360,Data Analyst,81095,FT,United States,True,Sweden,"['Statistics', 'Python', 'TensorFlow', 'Scala', 'MLOps']",Bachelor,2025-04-06,AI Innovations,True,Mid,degree required
+11364,Data Analyst,190915,FL,United States,True,United States,"['Scala', 'SQL', 'MLOps', 'Docker', 'Azure']",Master,2024-03-04,DeepTech Ventures,True,High,degree required
+11450,Data Analyst,71367,FT,United States,True,United States,"['AWS', 'PyTorch', 'NLP', 'Linux', 'Mathematics']",PhD,2024-02-13,Algorithmic Solutions,False,Mid,degree required
+11457,Data Analyst,37382,PT,Japan,True,Japan,"['AWS', 'Scala', 'TensorFlow', 'Git']",PhD,2025-01-21,Quantum Computing Inc,False,Low,degree required
+11466,Data Analyst,47558,CT,Ireland,True,Ireland,"['Linux', 'TensorFlow', 'Tableau', 'R']",PhD,2024-12-04,TechCorp Inc,True,Low,degree required
+11470,Data Analyst,71276,PT,United States,False,United States,"['Azure', 'Docker', 'Statistics', 'Deep Learning', 'SQL']",Associate,2024-06-04,Algorithmic Solutions,True,Mid,degree required
+11501,Data Analyst,63828,FT,France,False,Switzerland,"['Git', 'Docker', 'Python', 'Spark']",PhD,2024-06-17,TechCorp Inc,True,Mid,degree required
+11561,Data Analyst,110373,FT,Denmark,True,Norway,"['Deep Learning', 'Kubernetes', 'PyTorch']",Bachelor,2024-07-16,AI Innovations,False,High,degree required
+11563,Data Analyst,42664,PT,South Korea,True,South Korea,"['GCP', 'Python', 'Git']",PhD,2024-01-17,Advanced Robotics,True,Low,degree required
+11568,Data Analyst,123180,PT,United Kingdom,False,United Kingdom,"['Scala', 'Python', 'Docker', 'MLOps']",Master,2024-11-09,Autonomous Tech,True,High,degree required
+11573,Data Analyst,129541,PT,Switzerland,True,Austria,"['AWS', 'Python', 'Computer Vision', 'Linux']",PhD,2024-11-22,Predictive Systems,True,High,degree required
+11586,Data Analyst,225929,FT,Denmark,False,Denmark,"['Azure', 'TensorFlow', 'SQL', 'Statistics', 'AWS']",Associate,2025-02-28,DataVision Ltd,True,High,degree required
+11616,Data Analyst,119700,PT,Germany,True,Germany,"['GCP', 'NLP', 'Python', 'Linux', 'Tableau']",Associate,2025-04-17,Quantum Computing Inc,True,High,degree required
+11657,Data Analyst,100317,PT,China,True,Israel,"['Mathematics', 'R', 'Python', 'AWS']",PhD,2025-03-15,Advanced Robotics,True,High,degree required
+11658,Data Analyst,102621,PT,United Kingdom,True,United Kingdom,"['Python', 'Tableau', 'Java', 'NLP']",Bachelor,2024-05-15,DeepTech Ventures,True,High,degree required
+11677,Data Analyst,102652,PT,Australia,False,Australia,"['SQL', 'Spark', 'NLP', 'Data Visualization']",Bachelor,2025-02-03,Cloud AI Solutions,True,High,degree required
+11702,Data Analyst,136359,FL,Germany,True,Finland,"['AWS', 'SQL', 'Java']",Bachelor,2024-05-30,Neural Networks Co,True,High,degree required
+11714,Data Analyst,126729,PT,Israel,True,Israel,"['Hadoop', 'NLP', 'PyTorch']",PhD,2024-04-17,Quantum Computing Inc,False,High,degree required
+11721,Data Analyst,167449,CT,United Kingdom,True,Japan,"['Python', 'Computer Vision', 'TensorFlow', 'GCP', 'Statistics']",Bachelor,2024-03-11,Advanced Robotics,True,High,degree required
+11725,Data Analyst,208515,FL,Germany,True,Germany,"['SQL', 'Python', 'Scala', 'PyTorch']",PhD,2025-04-28,Future Systems,True,High,degree required
+11730,Data Analyst,142932,CT,China,True,Austria,"['Linux', 'Scala', 'MLOps', 'Java', 'Spark']",Bachelor,2024-12-24,Cognitive Computing,False,High,degree required
+11736,Data Analyst,105365,CT,Denmark,False,Denmark,"['Python', 'Kubernetes', 'Hadoop', 'Linux']",Bachelor,2024-07-27,Cloud AI Solutions,True,High,degree required
+11768,Data Analyst,100429,PT,Israel,True,Sweden,"['PyTorch', 'Docker', 'AWS', 'Python']",PhD,2024-02-14,Cloud AI Solutions,True,High,degree required
+11770,Data Analyst,54381,FT,India,True,India,"['PyTorch', 'NLP', 'SQL']",PhD,2024-03-15,Cognitive Computing,True,Mid,degree required
+11779,Data Analyst,195152,PT,Germany,True,Germany,"['Computer Vision', 'Data Visualization', 'Python', 'Statistics', 'GCP']",Associate,2024-03-09,Quantum Computing Inc,True,High,degree required
+11817,Data Analyst,90226,FL,France,True,France,"['MLOps', 'Linux', 'Python']",Bachelor,2024-03-29,Cognitive Computing,True,Mid,degree required
+11830,Data Analyst,118506,FL,Israel,False,Norway,"['Azure', 'Python', 'Data Visualization']",Master,2025-04-05,Advanced Robotics,True,High,degree required
+11836,Data Analyst,105740,FL,Switzerland,True,Switzerland,"['Statistics', 'R', 'MLOps', 'Java', 'Git']",Associate,2024-09-17,Future Systems,False,High,degree required
+11853,Data Analyst,100421,CT,Finland,True,Finland,"['Python', 'Computer Vision', 'Data Visualization', 'TensorFlow', 'Kubernetes']",Associate,2025-02-01,Cognitive Computing,True,High,degree required
+11859,Data Analyst,170717,FT,Norway,True,Norway,"['Tableau', 'MLOps', 'Python', 'R', 'SQL']",Bachelor,2024-11-15,Cloud AI Solutions,True,High,degree required
+11902,Data Analyst,110423,PT,Canada,True,Canada,"['SQL', 'PyTorch', 'Computer Vision']",Associate,2024-10-19,Neural Networks Co,True,High,degree required
+11916,Data Analyst,232937,FT,Netherlands,False,Netherlands,"['Computer Vision', 'Data Visualization', 'Hadoop', 'Java']",Associate,2024-12-29,TechCorp Inc,False,High,degree required
+11921,Data Analyst,106451,PT,Austria,False,Singapore,"['Statistics', 'Tableau', 'Mathematics', 'NLP']",Master,2025-04-20,DataVision Ltd,True,High,degree required
+11926,Data Analyst,55243,CT,Israel,True,Israel,"['Git', 'Azure', 'Python', 'Spark']",Master,2024-09-07,Digital Transformation LLC,True,Mid,degree required
+11965,Data Analyst,54063,FT,China,True,Ireland,"['Git', 'NLP', 'Linux']",Bachelor,2024-12-13,Predictive Systems,False,Mid,degree required
+11969,Data Analyst,54661,FT,Sweden,True,France,"['R', 'Deep Learning', 'Hadoop']",Associate,2024-08-07,Digital Transformation LLC,False,Mid,degree required
+11971,Data Analyst,252666,PT,Switzerland,True,Switzerland,"['GCP', 'SQL', 'Deep Learning', 'Tableau']",PhD,2025-01-22,Algorithmic Solutions,True,High,degree required
+11979,Data Analyst,41634,PT,Ireland,True,Ireland,"['Kubernetes', 'MLOps', 'Python', 'Deep Learning', 'Scala']",Bachelor,2024-03-05,Predictive Systems,True,Low,degree required
+12002,Data Analyst,85701,FT,South Korea,True,Canada,"['Kubernetes', 'Scala', 'Mathematics']",Bachelor,2024-08-12,DeepTech Ventures,False,Mid,degree required
+12015,Data Analyst,94889,PT,Singapore,True,Singapore,"['Python', 'Hadoop', 'NLP']",Associate,2024-05-25,Advanced Robotics,True,Mid,degree required
+12083,Data Analyst,131543,FL,South Korea,True,South Korea,"['Scala', 'MLOps', 'SQL', 'GCP']",Associate,2024-10-07,Cognitive Computing,True,High,degree required
+12114,Data Analyst,46371,CT,Finland,True,Finland,"['Hadoop', 'MLOps', 'PyTorch', 'GCP']",PhD,2024-11-23,Digital Transformation LLC,False,Low,degree required
+12125,Data Analyst,87835,FT,Germany,True,Netherlands,"['Data Visualization', 'GCP', 'Python', 'Scala', 'Git']",Bachelor,2024-11-15,Future Systems,True,Mid,degree required
+12165,Data Analyst,58822,CT,India,False,India,"['Linux', 'PyTorch', 'TensorFlow']",Bachelor,2024-07-28,TechCorp Inc,False,Mid,degree required
+12168,Data Analyst,96432,PT,France,True,France,"['Mathematics', 'Computer Vision', 'Azure', 'Python', 'TensorFlow']",Bachelor,2024-07-08,Machine Intelligence Group,True,Mid,degree required
+12222,Data Analyst,155405,FT,Switzerland,True,Switzerland,"['Linux', 'Kubernetes', 'Mathematics']",Master,2024-06-24,Cloud AI Solutions,False,High,degree required
+12273,Data Analyst,290614,FT,Switzerland,False,Finland,"['Computer Vision', 'Hadoop', 'Python', 'TensorFlow']",Associate,2025-04-28,Quantum Computing Inc,True,High,degree required
+12294,Data Analyst,37977,FT,Japan,False,Japan,"['Hadoop', 'PyTorch', 'Spark']",PhD,2024-08-16,TechCorp Inc,False,Low,degree required
+12303,Data Analyst,80734,FL,France,True,France,"['AWS', 'Scala', 'Deep Learning', 'Java']",Associate,2024-07-08,TechCorp Inc,False,Mid,degree required
+12357,Data Analyst,68868,FL,China,True,China,"['Deep Learning', 'TensorFlow', 'Computer Vision']",Master,2024-04-09,Autonomous Tech,False,Mid,degree required
+12368,Data Analyst,68522,PT,South Korea,False,South Korea,"['Scala', 'TensorFlow', 'Data Visualization', 'R']",Associate,2024-12-18,Quantum Computing Inc,False,Mid,degree required
+12387,Data Analyst,174465,FT,France,False,France,"['Linux', 'Computer Vision', 'Mathematics']",PhD,2024-08-22,Machine Intelligence Group,False,High,degree required
+12440,Data Analyst,55507,FL,France,False,France,"['Python', 'Docker', 'TensorFlow']",Bachelor,2024-04-22,AI Innovations,True,Mid,degree required
+12473,Data Analyst,174443,FL,Sweden,False,Sweden,"['Linux', 'SQL', 'Mathematics', 'Kubernetes']",Bachelor,2025-04-19,Cloud AI Solutions,True,High,degree required
+12531,Data Analyst,76004,PT,Australia,True,Australia,"['Statistics', 'Linux', 'Docker', 'Mathematics', 'Scala']",Master,2024-05-01,Cognitive Computing,False,Mid,degree required
+12533,Data Analyst,88000,PT,Germany,True,Germany,"['Computer Vision', 'Scala', 'Linux', 'GCP']",Bachelor,2024-04-03,Digital Transformation LLC,False,Mid,degree required
+12538,Data Analyst,46485,PT,South Korea,True,Ireland,"['Mathematics', 'TensorFlow', 'MLOps', 'Hadoop', 'Linux']",PhD,2024-04-05,Autonomous Tech,False,Low,degree required
+12543,Data Analyst,111820,CT,Norway,True,Norway,"['Scala', 'Java', 'Tableau']",Associate,2024-04-29,Cloud AI Solutions,True,High,degree required
+12551,Data Analyst,193828,CT,Canada,True,Canada,"['Mathematics', 'Python', 'Tableau', 'NLP', 'TensorFlow']",Bachelor,2025-01-16,Quantum Computing Inc,True,High,degree required
+12574,Data Analyst,46327,FL,China,True,Israel,"['Scala', 'Java', 'Docker', 'R']",PhD,2025-04-19,Quantum Computing Inc,False,Low,degree required
+12576,Data Analyst,69285,FT,Switzerland,False,Switzerland,"['Tableau', 'Python', 'TensorFlow', 'Computer Vision', 'Statistics']",Master,2024-05-28,Predictive Systems,True,Mid,degree required
+12579,Data Analyst,100613,FL,Japan,True,Japan,"['AWS', 'Linux', 'Tableau']",Associate,2025-03-03,Cloud AI Solutions,True,High,degree required
+12598,Data Analyst,61974,FL,Netherlands,False,Netherlands,"['AWS', 'Python', 'Azure', 'Computer Vision', 'TensorFlow']",Master,2025-02-08,Predictive Systems,True,Mid,degree required
+12599,Data Analyst,203496,FL,China,True,United States,"['Python', 'TensorFlow', 'Docker', 'MLOps', 'Hadoop']",Associate,2025-01-11,Cloud AI Solutions,True,High,degree required
+12606,Data Analyst,109075,FT,Canada,True,Canada,"['Python', 'GCP', 'TensorFlow', 'Computer Vision', 'Tableau']",Bachelor,2024-07-02,Quantum Computing Inc,True,High,degree required
+12646,Data Analyst,53306,PT,Ireland,False,Ireland,"['Tableau', 'Hadoop', 'Java', 'Linux']",Bachelor,2024-03-14,Cloud AI Solutions,True,Mid,degree required
+12650,Data Analyst,38912,PT,South Korea,False,Switzerland,"['R', 'TensorFlow', 'GCP', 'Spark', 'Linux']",Associate,2025-01-14,AI Innovations,False,Low,degree required
+12657,Data Analyst,163328,CT,France,True,France,"['Python', 'TensorFlow', 'Statistics']",Associate,2024-03-31,Quantum Computing Inc,True,High,degree required
+12663,Data Analyst,170923,CT,China,True,China,"['Scala', 'PyTorch', 'Git']",PhD,2024-09-28,Machine Intelligence Group,False,High,degree required
+12707,Data Analyst,184268,PT,Switzerland,True,Switzerland,"['Tableau', 'Linux', 'Hadoop']",Master,2024-09-03,DataVision Ltd,True,High,degree required
+12740,Data Analyst,95002,FL,Netherlands,True,Austria,"['Docker', 'Kubernetes', 'AWS', 'Statistics', 'R']",Associate,2024-07-29,Cloud AI Solutions,False,Mid,degree required
+12746,Data Analyst,268156,FT,United States,False,United States,"['Scala', 'Spark', 'Data Visualization']",Master,2024-06-10,Machine Intelligence Group,False,High,degree required
+12761,Data Analyst,56627,PT,France,False,France,"['Data Visualization', 'SQL', 'Tableau', 'Statistics']",PhD,2024-06-26,Cognitive Computing,True,Mid,degree required
+12762,Data Analyst,149937,PT,Singapore,False,Singapore,"['Deep Learning', 'SQL', 'PyTorch', 'Tableau']",Master,2025-02-02,Predictive Systems,True,High,degree required
+12782,Data Analyst,88311,FT,Japan,True,Japan,"['SQL', 'Docker', 'MLOps', 'Data Visualization']",Bachelor,2024-06-20,Cognitive Computing,True,Mid,degree required
+12810,Data Analyst,131646,FL,Netherlands,True,Netherlands,"['Python', 'Java', 'GCP', 'Data Visualization']",Bachelor,2025-02-16,DataVision Ltd,True,High,degree required
+12814,Data Analyst,94967,PT,Ireland,True,Ireland,"['PyTorch', 'Git', 'TensorFlow']",Bachelor,2025-03-15,Cloud AI Solutions,False,Mid,degree required
+12820,Data Analyst,129780,CT,China,False,China,"['Spark', 'GCP', 'NLP', 'PyTorch', 'Linux']",Associate,2024-11-20,Autonomous Tech,False,High,degree required
+12826,Data Analyst,339576,CT,Norway,False,Japan,"['Statistics', 'SQL', 'Deep Learning']",Associate,2025-03-21,DataVision Ltd,True,High,degree required
+12851,Data Analyst,104445,PT,Austria,True,Austria,"['R', 'Scala', 'Computer Vision', 'Deep Learning']",PhD,2024-06-12,TechCorp Inc,False,High,degree required
+12908,Data Analyst,285681,FT,Switzerland,True,Switzerland,"['TensorFlow', 'Scala', 'Mathematics', 'PyTorch']",Bachelor,2024-04-20,Smart Analytics,False,High,degree required
+12925,Data Analyst,177055,FT,Switzerland,True,Switzerland,"['Computer Vision', 'Docker', 'SQL', 'AWS']",PhD,2024-02-04,Neural Networks Co,True,High,degree required
+12928,Data Analyst,89059,FL,Israel,True,Israel,"['TensorFlow', 'Linux', 'Python', 'Azure', 'MLOps']",Associate,2024-09-09,Predictive Systems,True,Mid,degree required
+12956,Data Analyst,87220,PT,Israel,True,Ireland,"['Linux', 'SQL', 'Python', 'Hadoop']",PhD,2024-07-05,DataVision Ltd,True,Mid,degree required
+13015,Data Analyst,85906,CT,Germany,False,Norway,"['Data Visualization', 'Scala', 'Hadoop', 'Docker', 'Computer Vision']",Associate,2024-08-09,Machine Intelligence Group,False,Mid,degree required
+13016,Data Analyst,209819,FL,Switzerland,True,Israel,"['Spark', 'Linux', 'Java']",Associate,2024-12-31,Predictive Systems,False,High,degree required
+13021,Data Analyst,139649,FL,Ireland,True,Ireland,"['Python', 'Deep Learning', 'Tableau', 'Linux']",Bachelor,2024-10-20,Cloud AI Solutions,True,High,degree required
+13028,Data Analyst,82552,PT,Finland,True,Finland,"['Deep Learning', 'Linux', 'Scala', 'R']",Master,2024-08-04,Algorithmic Solutions,False,Mid,degree required
+13037,Data Analyst,133797,PT,Netherlands,False,Netherlands,"['Data Visualization', 'GCP', 'SQL', 'MLOps', 'Linux']",Bachelor,2024-07-06,AI Innovations,True,High,degree required
+13057,Data Analyst,267439,PT,France,True,Austria,"['Hadoop', 'Python', 'Kubernetes', 'Computer Vision']",PhD,2025-02-02,Smart Analytics,True,High,degree required
+13066,Data Analyst,49800,CT,Netherlands,True,United Kingdom,"['Hadoop', 'Tableau', 'PyTorch', 'Azure', 'Deep Learning']",Associate,2024-11-22,Machine Intelligence Group,True,Low,degree required
+13073,Data Analyst,73990,FT,Germany,True,Germany,"['Data Visualization', 'Spark', 'Python']",Master,2025-01-16,TechCorp Inc,True,Mid,degree required
+13082,Data Analyst,105835,PT,South Korea,True,South Korea,"['SQL', 'Scala', 'TensorFlow', 'GCP', 'Computer Vision']",Bachelor,2025-03-16,Smart Analytics,True,High,degree required
+13090,Data Analyst,128725,FT,China,False,South Korea,"['Azure', 'Python', 'TensorFlow', 'Git', 'Java']",Bachelor,2024-06-16,DeepTech Ventures,True,High,degree required
+13102,Data Analyst,82309,CT,Singapore,True,France,"['Scala', 'Mathematics', 'Java']",Bachelor,2024-08-19,Predictive Systems,False,Mid,degree required
+13112,Data Analyst,43811,PT,China,False,China,"['Git', 'Computer Vision', 'Scala', 'Python']",Bachelor,2024-02-02,Smart Analytics,True,Low,degree required
+13126,Data Analyst,95941,PT,France,True,France,"['Python', 'NLP', 'Tableau']",Master,2024-06-15,DataVision Ltd,True,Mid,degree required
+13130,Data Analyst,76607,FL,United Kingdom,True,United Kingdom,"['Python', 'TensorFlow', 'PyTorch']",Bachelor,2024-12-11,Smart Analytics,True,Mid,degree required
+13140,Data Analyst,165179,FT,Denmark,True,Denmark,"['Spark', 'Statistics', 'Python']",Associate,2024-07-10,Future Systems,True,High,degree required
+13144,Data Analyst,103093,CT,China,False,China,"['NLP', 'Computer Vision', 'R', 'Hadoop', 'Python']",Bachelor,2024-08-27,Autonomous Tech,True,High,degree required
+13151,Data Analyst,54724,PT,Sweden,True,Sweden,"['TensorFlow', 'Data Visualization', 'NLP']",Master,2024-10-02,Digital Transformation LLC,False,Mid,degree required
+13178,Data Analyst,194354,FL,United States,True,United States,"['GCP', 'R', 'Kubernetes', 'Azure']",Bachelor,2024-12-24,Machine Intelligence Group,False,High,degree required
+13186,Data Analyst,222257,FT,Singapore,True,Singapore,"['Tableau', 'R', 'Data Visualization']",Bachelor,2025-02-15,Smart Analytics,True,High,degree required
+13199,Data Analyst,65165,FT,Israel,False,Japan,"['Git', 'Kubernetes', 'PyTorch']",Associate,2024-08-25,Future Systems,False,Mid,degree required
+13201,Data Analyst,71696,FL,Austria,False,Austria,"['Tableau', 'Scala', 'Hadoop', 'PyTorch']",Bachelor,2024-07-31,Autonomous Tech,True,Mid,degree required
+13207,Data Analyst,56305,FT,Canada,False,Switzerland,"['PyTorch', 'Scala', 'Git', 'MLOps', 'Azure']",Bachelor,2024-04-17,Autonomous Tech,False,Mid,degree required
+13208,Data Analyst,65415,FL,United Kingdom,True,United Kingdom,"['GCP', 'Docker', 'MLOps', 'Data Visualization']",Bachelor,2025-04-01,AI Innovations,False,Mid,degree required
+13232,Data Analyst,42928,PT,Japan,True,Australia,"['NLP', 'Azure', 'Docker', 'GCP', 'Git']",PhD,2025-03-07,Digital Transformation LLC,False,Low,degree required
+13239,Data Analyst,72062,FL,Netherlands,True,Netherlands,"['R', 'Scala', 'Docker', 'Data Visualization']",Master,2024-11-30,Cognitive Computing,False,Mid,degree required
+13261,Data Analyst,113243,FT,India,False,India,"['Java', 'Linux', 'Data Visualization', 'NLP', 'Azure']",Bachelor,2024-07-05,Predictive Systems,False,High,degree required
+13264,Data Analyst,123058,FL,United States,True,United States,"['Deep Learning', 'PyTorch', 'Hadoop', 'R']",Associate,2025-03-31,Predictive Systems,False,High,degree required
+13305,Data Analyst,61381,PT,Israel,True,Israel,"['PyTorch', 'Linux', 'NLP', 'GCP', 'Spark']",Master,2024-08-26,AI Innovations,False,Mid,degree required
+13361,Data Analyst,95072,CT,Israel,True,Israel,"['Mathematics', 'Scala', 'Java']",PhD,2025-04-12,Smart Analytics,False,Mid,degree required
+13374,Data Analyst,86488,FL,Switzerland,False,France,"['Docker', 'R', 'MLOps', 'NLP']",PhD,2024-11-14,Predictive Systems,False,Mid,degree required
+13375,Data Analyst,103435,FT,Sweden,False,Sweden,"['R', 'NLP', 'Mathematics', 'Computer Vision']",Associate,2024-03-22,Neural Networks Co,False,High,degree required
+13404,Data Analyst,66082,PT,Ireland,True,Finland,"['MLOps', 'TensorFlow', 'PyTorch']",Master,2024-07-08,Advanced Robotics,False,Mid,degree required
+13441,Data Analyst,66011,PT,Australia,True,Norway,"['MLOps', 'SQL', 'Kubernetes', 'NLP']",Master,2024-08-29,AI Innovations,True,Mid,degree required
+13457,Data Analyst,63136,FT,Australia,True,Australia,"['Tableau', 'Scala', 'Hadoop', 'Docker']",PhD,2025-04-08,AI Innovations,True,Mid,degree required
+13462,Data Analyst,88786,CT,Norway,True,Singapore,"['SQL', 'Hadoop', 'Java', 'Statistics']",Master,2024-05-19,Algorithmic Solutions,True,Mid,degree required
+13484,Data Analyst,69724,CT,Finland,True,Finland,"['Data Visualization', 'Hadoop', 'Deep Learning']",Master,2024-06-05,Cognitive Computing,False,Mid,degree required
+13489,Data Analyst,103035,FT,Austria,False,Austria,"['Deep Learning', 'Hadoop', 'TensorFlow', 'Tableau', 'AWS']",Master,2024-04-20,Algorithmic Solutions,True,High,degree required
+13511,Data Analyst,87274,PT,South Korea,True,South Korea,"['Kubernetes', 'Docker', 'PyTorch', 'SQL']",PhD,2024-06-09,Machine Intelligence Group,True,Mid,degree required
+13520,Data Analyst,73689,FT,China,True,China,"['SQL', 'Hadoop', 'Statistics', 'Git', 'Mathematics']",PhD,2024-08-18,Advanced Robotics,True,Mid,degree required
+13534,Data Analyst,63430,PT,Canada,True,Australia,"['GCP', 'TensorFlow', 'Data Visualization']",Bachelor,2024-07-30,Advanced Robotics,False,Mid,degree required
+13550,Data Analyst,51164,PT,Austria,False,Austria,"['SQL', 'NLP', 'PyTorch', 'Azure', 'Statistics']",Master,2024-09-26,Advanced Robotics,True,Mid,degree required
+13556,Data Analyst,76697,FT,Australia,False,Australia,"['Python', 'AWS', 'SQL']",Master,2025-03-02,TechCorp Inc,True,Mid,degree required
+13610,Data Analyst,78427,FT,Denmark,True,Denmark,"['AWS', 'TensorFlow', 'Data Visualization']",PhD,2024-10-11,Neural Networks Co,False,Mid,degree required
+13630,Data Analyst,183262,CT,Denmark,True,Denmark,"['R', 'Linux', 'PyTorch', 'Deep Learning', 'Kubernetes']",Bachelor,2025-04-04,DeepTech Ventures,False,High,degree required
+13656,Data Analyst,67516,CT,United Kingdom,True,United Kingdom,"['Mathematics', 'Docker', 'Git']",PhD,2024-08-14,Smart Analytics,False,Mid,degree required
+13664,Data Analyst,83264,FT,Japan,True,Netherlands,"['Python', 'SQL', 'NLP']",Master,2025-02-07,Future Systems,True,Mid,degree required
+13672,Data Analyst,95591,FL,Sweden,True,Canada,"['R', 'SQL', 'Computer Vision']",Associate,2024-10-23,Digital Transformation LLC,True,Mid,degree required
+13679,Data Analyst,54917,FL,Austria,True,Austria,"['Tableau', 'Data Visualization', 'SQL']",Associate,2025-01-29,Predictive Systems,True,Mid,degree required
+13715,Data Analyst,90181,FT,India,True,Finland,"['Python', 'AWS', 'Azure', 'Statistics', 'Linux']",Master,2024-08-18,Advanced Robotics,True,Mid,degree required
+13719,Data Analyst,97627,FL,Japan,True,Japan,"['Mathematics', 'PyTorch', 'Git', 'Linux', 'Statistics']",Master,2024-04-12,Algorithmic Solutions,False,Mid,degree required
+13720,Data Analyst,110766,FL,Singapore,True,Singapore,"['Git', 'Computer Vision', 'GCP', 'NLP', 'Data Visualization']",Bachelor,2024-06-08,Cloud AI Solutions,False,High,degree required
+13733,Data Analyst,58687,FL,Singapore,True,Singapore,"['SQL', 'Deep Learning', 'Linux', 'Computer Vision']",Master,2024-11-28,Autonomous Tech,True,Mid,degree required
+13738,Data Analyst,137939,FL,Denmark,False,Israel,"['Computer Vision', 'AWS', 'Kubernetes', 'Data Visualization']",Bachelor,2024-01-10,Machine Intelligence Group,False,High,degree required
+13748,Data Analyst,120481,PT,Netherlands,False,Netherlands,"['Kubernetes', 'MLOps', 'PyTorch', 'Spark']",Master,2024-12-29,Future Systems,False,High,degree required
+13755,Data Analyst,212387,FT,Norway,True,Norway,"['Mathematics', 'Kubernetes', 'SQL']",PhD,2024-07-05,Future Systems,True,High,degree required
+13783,Data Analyst,43857,FT,Ireland,True,Netherlands,"['Docker', 'Git', 'Python']",Associate,2024-01-15,Cognitive Computing,True,Low,degree required
+13860,Data Analyst,38617,PT,South Korea,True,Canada,"['Kubernetes', 'Computer Vision', 'R', 'PyTorch', 'Azure']",Associate,2024-01-03,Advanced Robotics,False,Low,degree required
+13875,Data Analyst,86051,PT,Germany,False,Germany,"['SQL', 'Git', 'Kubernetes', 'GCP']",Bachelor,2025-01-08,TechCorp Inc,True,Mid,degree required
+13906,Data Analyst,86650,FL,Ireland,True,Ireland,"['Python', 'Kubernetes', 'Computer Vision', 'Statistics', 'Git']",PhD,2025-01-10,Machine Intelligence Group,True,Mid,degree required
+13918,Data Analyst,73037,PT,Finland,True,Finland,"['Python', 'Deep Learning', 'Data Visualization', 'Hadoop']",Associate,2024-07-17,Future Systems,True,Mid,degree required
+13928,Data Analyst,57605,PT,Austria,True,Austria,"['Data Visualization', 'SQL', 'Mathematics', 'Hadoop', 'Git']",Bachelor,2025-02-22,Future Systems,True,Mid,degree required
+13943,Data Analyst,60250,FL,Austria,True,Austria,"['Spark', 'PyTorch', 'TensorFlow']",PhD,2024-11-10,Advanced Robotics,False,Mid,degree required
+13967,Data Analyst,79247,CT,India,True,India,"['Azure', 'MLOps', 'Spark']",PhD,2024-02-21,DeepTech Ventures,False,Mid,degree required
+13974,Data Analyst,89802,FT,Australia,False,Australia,"['Tableau', 'GCP', 'Statistics', 'Computer Vision', 'SQL']",Bachelor,2024-12-23,Future Systems,True,Mid,degree required
+14015,Data Analyst,66047,PT,Canada,True,Canada,"['NLP', 'Tableau', 'Linux', 'Azure']",PhD,2024-01-27,TechCorp Inc,True,Mid,degree required
+14027,Data Analyst,179320,FL,Singapore,True,Singapore,"['Spark', 'Python', 'TensorFlow', 'Data Visualization']",Bachelor,2025-02-20,Neural Networks Co,True,High,degree required
+14059,Data Analyst,113188,FL,Japan,True,Singapore,"['Scala', 'Java', 'Deep Learning', 'Linux']",Bachelor,2024-05-11,Cloud AI Solutions,False,High,degree required
+14067,Data Analyst,88375,FT,Singapore,False,Austria,"['AWS', 'SQL', 'R', 'Linux', 'MLOps']",Associate,2024-11-06,Smart Analytics,True,Mid,degree required
+14101,Data Analyst,77846,CT,Japan,True,Japan,"['Kubernetes', 'NLP', 'SQL', 'Hadoop']",Associate,2025-01-23,Cloud AI Solutions,True,Mid,degree required
+14162,Data Analyst,43952,CT,China,False,China,"['Java', 'Hadoop', 'Scala', 'MLOps']",Master,2024-09-20,Advanced Robotics,False,Low,degree required
+14163,Data Analyst,94665,CT,Austria,False,Austria,"['Docker', 'Kubernetes', 'Hadoop', 'Azure']",Bachelor,2024-11-26,Quantum Computing Inc,False,Mid,degree required
+14165,Data Analyst,218839,FT,Norway,False,Netherlands,"['Scala', 'Python', 'TensorFlow', 'Spark']",PhD,2024-10-26,Autonomous Tech,True,High,degree required
+14171,Data Analyst,51112,FL,South Korea,False,Germany,"['Kubernetes', 'Data Visualization', 'Hadoop', 'PyTorch', 'Deep Learning']",PhD,2025-02-02,Predictive Systems,False,Mid,degree required
+14181,Data Analyst,68973,CT,Ireland,False,Ireland,"['Python', 'Hadoop', 'Statistics', 'Mathematics']",PhD,2024-02-20,Cloud AI Solutions,True,Mid,degree required
+14195,Data Analyst,84363,PT,China,False,Singapore,"['Spark', 'Kubernetes', 'Linux']",Bachelor,2024-05-11,Quantum Computing Inc,False,Mid,degree required
+14221,Data Analyst,86245,FT,Denmark,True,Denmark,"['Python', 'Azure', 'GCP']",Master,2024-08-06,Cognitive Computing,True,Mid,degree required
+14225,Data Analyst,74112,FL,Austria,True,China,"['Java', 'Scala', 'Linux', 'Data Visualization', 'GCP']",Bachelor,2024-09-03,Smart Analytics,False,Mid,degree required
+14246,Data Analyst,139754,PT,India,True,India,"['MLOps', 'Scala', 'Statistics', 'Spark', 'Tableau']",Master,2024-07-31,Smart Analytics,True,High,degree required
+14259,Data Analyst,94553,FT,Israel,True,Israel,"['TensorFlow', 'Scala', 'Azure', 'Python']",Master,2024-05-29,Machine Intelligence Group,True,Mid,degree required
+14264,Data Analyst,250336,PT,Netherlands,True,Netherlands,"['SQL', 'Git', 'PyTorch', 'Computer Vision']",Associate,2024-09-22,Cloud AI Solutions,True,High,degree required
+14323,Data Analyst,72007,FT,Netherlands,True,Netherlands,"['Kubernetes', 'Scala', 'Docker', 'Spark', 'Java']",Master,2025-02-16,Predictive Systems,False,Mid,degree required
+14369,Data Analyst,87985,PT,France,True,France,"['Tableau', 'Hadoop', 'Java', 'R']",Bachelor,2024-10-23,Neural Networks Co,True,Mid,degree required
+14389,Data Analyst,75437,CT,Canada,True,France,"['Docker', 'GCP', 'Java', 'Tableau']",Associate,2024-08-06,Autonomous Tech,True,Mid,degree required
+14415,Data Analyst,275850,PT,Switzerland,False,Switzerland,"['Scala', 'Linux', 'Spark', 'Git', 'Java']",Master,2025-04-22,Future Systems,False,High,degree required
+14423,Data Analyst,149819,CT,Israel,True,Israel,"['PyTorch', 'Azure', 'GCP']",Master,2024-08-17,Neural Networks Co,False,High,degree required
+14425,Data Analyst,73162,FT,United Kingdom,True,United Kingdom,"['AWS', 'Docker', 'Python', 'Azure']",Bachelor,2025-01-18,Neural Networks Co,True,Mid,degree required
+14436,Data Analyst,72361,CT,United Kingdom,True,United Kingdom,"['Scala', 'Java', 'Hadoop', 'Docker', 'Statistics']",Associate,2024-01-05,Algorithmic Solutions,False,Mid,degree required
+14453,Data Analyst,100718,FL,China,False,Ireland,"['Statistics', 'Python', 'Data Visualization']",PhD,2024-05-18,Predictive Systems,True,High,degree required
+14476,Data Analyst,182232,PT,Denmark,False,Denmark,"['NLP', 'Scala', 'MLOps']",Bachelor,2025-04-15,Algorithmic Solutions,False,High,degree required
+14571,Data Analyst,88481,CT,India,True,India,"['Python', 'TensorFlow', 'Kubernetes']",Master,2025-03-10,Neural Networks Co,True,Mid,degree required
+14574,Data Analyst,94867,CT,United States,True,United States,"['Hadoop', 'Linux', 'PyTorch']",Bachelor,2024-07-01,AI Innovations,False,Mid,degree required
+14598,Data Analyst,50576,FT,South Korea,True,South Korea,"['NLP', 'Java', 'Tableau', 'R', 'Hadoop']",Associate,2025-02-27,Advanced Robotics,True,Mid,degree required
+14623,Data Analyst,93829,FL,Australia,True,Australia,"['Kubernetes', 'R', 'Statistics']",Bachelor,2024-07-08,Predictive Systems,False,Mid,degree required
+14630,Data Analyst,140391,CT,Singapore,True,Singapore,"['Java', 'GCP', 'Scala']",PhD,2024-02-25,Algorithmic Solutions,False,High,degree required
+14651,Data Analyst,120054,PT,France,True,France,"['Computer Vision', 'Statistics', 'PyTorch']",Associate,2024-08-28,DeepTech Ventures,False,High,degree required
+14707,Data Analyst,130885,CT,Canada,True,Canada,"['SQL', 'Tableau', 'Java', 'Deep Learning']",Master,2024-03-08,Cloud AI Solutions,True,High,degree required
+14759,Data Analyst,127732,FL,Singapore,True,Singapore,"['Kubernetes', 'Scala', 'AWS', 'Computer Vision']",Associate,2024-09-20,Cloud AI Solutions,False,High,degree required
+14772,Data Analyst,189962,CT,Germany,True,Germany,"['Python', 'Statistics', 'TensorFlow', 'NLP']",Associate,2024-10-19,Neural Networks Co,True,High,degree required
+14773,Data Analyst,320379,PT,Denmark,True,Denmark,"['Python', 'Linux', 'Deep Learning', 'NLP', 'Azure']",Master,2025-04-07,Future Systems,True,High,degree required
+14803,Data Analyst,135926,FL,France,True,Sweden,"['AWS', 'TensorFlow', 'Hadoop']",Bachelor,2024-10-03,Quantum Computing Inc,False,High,degree required
+14812,Data Analyst,178001,FL,Finland,True,Finland,"['SQL', 'Tableau', 'GCP', 'Spark']",PhD,2024-03-04,Autonomous Tech,True,High,degree required
+14823,Data Analyst,63475,FT,Sweden,False,Sweden,"['Statistics', 'Tableau', 'SQL']",Bachelor,2024-10-16,Cloud AI Solutions,True,Mid,degree required
+14827,Data Analyst,40297,FT,Finland,True,Japan,"['PyTorch', 'Git', 'Kubernetes', 'GCP', 'Deep Learning']",Bachelor,2024-04-01,Autonomous Tech,False,Low,degree required
+14828,Data Analyst,39506,FL,Israel,False,France,"['Linux', 'Docker', 'TensorFlow']",Associate,2024-04-20,Cloud AI Solutions,False,Low,degree required
+14838,Data Analyst,63547,FT,South Korea,True,South Korea,"['PyTorch', 'Linux', 'MLOps']",PhD,2024-03-22,TechCorp Inc,False,Mid,degree required
+14850,Data Analyst,155935,FL,Switzerland,True,Switzerland,"['TensorFlow', 'Azure', 'SQL', 'Tableau']",Associate,2024-11-22,Cloud AI Solutions,True,High,degree required
+14862,Data Analyst,86548,FL,Germany,True,Germany,"['Python', 'Java', 'Tableau', 'Deep Learning']",Master,2024-06-14,DataVision Ltd,True,Mid,degree required
+14867,Data Analyst,133212,FT,Sweden,False,Sweden,"['Spark', 'Linux', 'Docker']",Master,2025-01-06,Autonomous Tech,False,High,degree required
+14978,Data Analyst,127611,FT,Canada,True,Singapore,"['R', 'Tableau', 'Git', 'Python', 'Java']",Associate,2025-03-01,Smart Analytics,True,High,degree required
+14982,Data Analyst,70721,FL,Norway,False,Australia,"['Data Visualization', 'Python', 'SQL', 'NLP']",Bachelor,2024-09-15,Advanced Robotics,True,Mid,degree required
