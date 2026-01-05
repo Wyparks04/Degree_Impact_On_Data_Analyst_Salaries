@@ -61,7 +61,7 @@ No coding background is required to understand the results — all outputs are e
 
 ## 4. Results / Findings
 
-This project analyzed two datasets to compare salary patterns for data analyst roles:
+This project analyzed two datasets to compare salary patterns for data analyst roles.
 
     degree_jobs — positions requiring a formal degree (primarily bachelor’s‑level roles)
 
