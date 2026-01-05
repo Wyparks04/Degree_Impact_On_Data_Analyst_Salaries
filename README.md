@@ -63,21 +63,21 @@ No coding background is required to understand the results — all outputs are e
 
 This project analyzed two datasets to compare salary patterns for data analyst roles.
 
-    degree_jobs — positions requiring a formal degree (primarily bachelor’s‑level roles)
+degree_jobs — positions requiring a formal degree (primarily bachelor’s‑level roles)
 
-    no_degree_jobs — positions requiring no formal degree (portfolio‑based or entry‑level)
+no_degree_jobs — positions requiring no formal degree (portfolio‑based or entry‑level)
 
 The goal was to understand how education requirements influence salary ranges for early‑career data analyst positions.
 
     1. Education Levels in the degree_jobs Dataset:
 
-        Although the degree_jobs dataset includes a wide range of education requirements, the focus of this project is on bachelor’s‑level / entry‑level roles.
+Although the degree_jobs dataset includes a wide range of education requirements, the focus of this project is on bachelor’s‑level / entry‑level roles.
 
-    However, the dataset also contains:
+However, the dataset also contains:
 
-        202 listings requiring a Master’s degree
+202 listings requiring a Master’s degree
 
-        175 listings requiring a PhD
+175 listings requiring a PhD
 
 These advanced‑degree roles are not representative of the bachelor’s‑level job market and were treated as outliers when comparing salaries between degree and no‑degree positions.
 
@@ -85,16 +85,16 @@ Their presence explains why the raw salary distribution for degree_jobs initiall
 
     2. Salary Comparison: Degree vs. No Degree:
 
-    Degree-required (Bachelor’s / Entry-Level)
-        - After excluding Master’s and PhD outliers, bachelor’s‑level roles show a clear, consistent salary range typical of early‑career data analyst positions.
-        - These roles generally offer higher median salaries than no‑degree roles, but not dramatically higher.
+Degree-required (Bachelor’s / Entry-Level)
+ After excluding Master’s and PhD outliers, bachelor’s‑level roles show a clear, consistent salary range typical of early‑career data analyst positions.
+ These roles generally offer higher median salaries than no‑degree roles, but not dramatically higher.
 
-    No-degree roles
-        - Salaries remain competitive, especially for positions emphasizing skills, tools, and portfolio work.
-        - The salary range is slightly lower on average, but still viable for entry‑level candidates.
+No-degree roles
+Salaries remain competitive, especially for positions emphasizing skills, tools, and portfolio work.
+The salary range is slightly lower on average, but still viable for entry‑level candidates.
 
-        3. Data Quality Insight
-            - The presence of data analyst roles requiring Master’s and PhD listings were from an AI Jobs Dataset. Identifying and treating these advanced‑degree roles as outliers was essential for producing a fair comparison between bachelor’s‑level and no‑degree roles.
+    3. Data Quality Insight
+The presence of data analyst roles requiring Master’s and PhD listings were from an AI Jobs Dataset. Identifying and treating these advanced‑degree roles as outliers was essential for producing a fair comparison between bachelor’s‑level and no‑degree roles.
 
 
 ## 5. Key Takeaway
