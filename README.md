@@ -83,7 +83,7 @@ salary_tier
 
 degree_flag
 
-### 3. Technologies Used 
+## 3. Technologies Used 
  
 - **Python**: Core programming language for data analysis 
 - **Pandas**: Used to clean and manipulate the dataset (handling missing values, feature engineering) 
@@ -93,7 +93,7 @@ degree_flag
 - **Git/GitHub**: Version control and collaboration, ensuring reproducibility and transparency
 
 
-### 4. Results / Findings
+## 4. Results / Findings
 
 This project analyzed two datasets to compare salary patterns for data analyst roles.
 
@@ -131,7 +131,7 @@ The salary range is slightly lower on average, but still viable for entry‑leve
 The presence of data analyst roles requiring Master’s and PhD listings were from an AI Jobs Dataset. Identifying and treating these advanced‑degree roles as outliers was essential for producing a fair comparison between bachelor’s‑level and no‑degree roles.
 
 
-### 5. Key Takeaway
+## 5. Key Takeaway
 
 When comparing entry‑level data analyst roles:
     - Bachelor’s‑required positions tend to offer moderately higher salaries.
@@ -140,7 +140,7 @@ When comparing entry‑level data analyst roles:
 Advanced‑degree listings (Master’s/PhD) where included in the visualizations for transparency, but they should not be interpreted as typical for entry‑level roles. For the core comparison, these listings were excluded to avoid skewing the results.
 
 
-### 6. Conclusion
+## 6. Conclusion
 
 This analysis shows that entry‑level data analyst roles are accessible through multiple pathways. While bachelor’s‑required positions tend to offer moderately higher salaries, the difference is not so large that it creates a barrier for candidates entering the field without a formal degree. No‑degree roles remain competitive, especially for applicants who demonstrate strong technical skills and a solid portfolio.
 
@@ -148,7 +148,7 @@ The presence of Master’s and PhD listings in the AI Jobs Dataset highlights ho
 
 ---
 
-### 7. Limitations
+## 7. Limitations
 
 - **Mixed education levels in the AI Jobs Dataset:**  
   The degree_jobs dataset included roles requiring Bachelor’s, Master’s, and PhD degrees. Although advanced‑degree roles were treated as outliers for the core comparison, their presence still influenced the overall salary distribution and required additional filtering.
