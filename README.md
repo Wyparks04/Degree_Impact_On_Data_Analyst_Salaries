@@ -48,6 +48,37 @@ Once the project is running, users will see:
  
 No coding background is required to understand the results — all outputs are explained clearly and supported by visuals. 
 
+## Datasets 
+
+## Data Summary
+
+## Data Dictionary 
+
+job_title
+
+salary_usd
+
+employment_type
+
+company_location
+
+is_remote
+
+employee_location
+
+job_skills
+
+degree_required
+
+posting_date
+
+company_name
+
+has_target
+
+salary_tier
+
+degree_flag
 
 ## 3. Technologies Used 
  
@@ -130,3 +161,16 @@ The presence of Master’s and PhD listings in the AI Jobs Dataset highlights ho
 
 - **Geographic and industry factors not included:**  
   Salaries can vary significantly by region, company size, and industry sector. These factors were not isolated in this analysis and may influence salary outcomes.
+
+### Data Source
+This project uses two publicly available datasets:
+
+1. Global AI Job Market & Salary Trends 2025  
+Citation:
+Sajjad, B. (2025). Global AI Job Market & Salary Trends 2025. Kaggle.
+Available at: https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025
+
+2. Data Jobs Dataset  
+Citation:
+Barousse, L. (2023). Data Jobs Dataset. Hugging Face Datasets.
+https://huggingface.co/datasets/lukebarousse/data_jobs
