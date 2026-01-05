@@ -83,7 +83,7 @@ salary_tier
 
 degree_flag
 
-# 3. Technologies Used 
+## 3. Technologies Used 
  
 - **Python**: Core programming language for data analysis 
 - **Pandas**: Used to clean and manipulate the dataset (handling missing values, feature engineering) 
