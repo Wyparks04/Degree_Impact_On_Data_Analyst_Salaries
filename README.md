@@ -51,7 +51,7 @@ No coding background is required to understand the results — all outputs are e
 ## Datasets 
 Ai_jobs_dataset.csv - This dataset provides a number of roles including data analyst jobs from the artificial intelligence job market with over 15,000 real job postings collected from major job platforms worldwide. It includes detailed salary information, job requirements, company insights, and geographic trends. This dataset includes detailed information such as job titles, salaries, employment type, company location, remote status, required skills, and education requirements.
 
-Data_analyst_jobs.csv - This dataset was manipulated from the data_jobs dataset using  created by Luke Barousse containing hundreds of thousands of real-world job postings related to data analytics, data engineering, and data science roles. It was manipulated to include only data analyst jobs. This dataset includes detailed information such as job titles, salaries, employment type, company location, remote status, required skills, and education requirements. The dataset supports analysis of hiring trends, skill demand, and salary patterns across the data industry.
+Data_analyst_jobs.csv - This dataset was manipulated from the data_jobs dataset created by Luke Barousse containing hundreds of thousands of real-world job postings related to data analytics, data engineering, and data science roles. It was manipulated to include only data analyst jobs. This dataset includes detailed information such as job titles, salaries, employment type, company location, remote status, required skills, and education requirements. The dataset supports analysis of hiring trends, skill demand, and salary patterns across the data industry.
 
 ## Data Summary
 
