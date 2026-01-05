@@ -33,7 +33,6 @@ Run the project:
 
     b. Navigate to the notebook file and run all cells. 
 
----
 
 ### 2. Project Overview 
 ```markdown 
@@ -49,7 +48,6 @@ Once the project is running, users will see:
  
 No coding background is required to understand the results — all outputs are explained clearly and supported by visuals. 
 
----
 
 ## 3. Technologies Used 
  
@@ -60,7 +58,6 @@ No coding background is required to understand the results — all outputs are e
 - **Jupyter Notebook**: Provided a narrative‑driven environment to present both code and results 
 - **Git/GitHub**: Version control and collaboration, ensuring reproducibility and transparency
 
----
 
 ## 4. Results / Findings
 
@@ -99,7 +96,6 @@ Their presence explains why the raw salary distribution for degree_jobs initiall
         3. Data Quality Insight
             - The presence of data analyst roles requiring Master’s and PhD listings were from an AI Jobs Dataset. Identifying and treating these advanced‑degree roles as outliers was essential for producing a fair comparison between bachelor’s‑level and no‑degree roles.
 
----
 
 ## 5. Key Takeaway
 
@@ -109,7 +105,6 @@ When comparing entry‑level data analyst roles:
 
 Advanced‑degree listings (Master’s/PhD) where included in the visualizations for transparency, but they should not be interpreted as typical for entry‑level roles. For the core comparison, these listings were excluded to avoid skewing the results.
 
----
 
 ## 6. Conclusion
 
