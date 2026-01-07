@@ -54,6 +54,66 @@ Ai_jobs_dataset.csv - This dataset provides a number of roles including data ana
 Data_analyst_jobs.csv - This dataset was manipulated from the data_jobs dataset created by Luke Barousse containing hundreds of thousands of real-world job postings related to data analytics, data engineering, and data science roles. It was manipulated to include only data analyst jobs. This dataset includes detailed information such as job titles, salaries, employment type, company location, remote status, required skills, and education requirements. The dataset supports analysis of hiring trends, skill demand, and salary patterns across the data industry.
 
 ## Data Summary
+Salary Levels: Degree vs. No Degree
+
+1. Mean (Average) Salary
+
+Category	Mean Salary
+Degree-required	157,416
+No-degree	91,438
+Degree roles average ~66k more, but remember:
+Your degree dataset includes Master’s and PhD outliers, and your max value confirms that.
+
+2. Outlier Alert: The Degree Salaries Are Inflated
+
+Look at the degree_salary max:
+
+Max degree salary: 349,508
+
+Max no-degree salary: 125,000
+
+That 349k value is way outside normal entry-level ranges.
+This is exactly what you described in your README: advanced-degree roles inflate the upper range.
+
+The standard deviation confirms this:
+
+Degree std: 92,158 - extremely wide spread
+
+No-degree std: 33,923 - much tighter, more consistent
+
+3. Medians Tell the Real Story
+
+Medians are more robust to outliers:
+
+Category	Median Salary
+Degree-required	158,378
+No-degree	100,000
+The real difference is closer to 58k, not 66k.
+Still meaningful, but not extreme.
+
+4. Salary Ranges
+
+Degree-required
+Min: 47,558
+
+25%: 75,085
+
+50%: 158,378
+
+75%: 176,235
+
+Max: 349,508 (outlier)
+
+No-degree
+Min: 41,446
+
+25%: 55,000
+
+50%: 100,000
+
+75%: 125,000
+
+Max: 125,000
 
 ## Data Dictionary 
 
