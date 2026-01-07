@@ -62,7 +62,7 @@ Category	Mean Salary
 Degree-required	157,416
 No-degree	91,438
 Degree roles average ~66k more, but remember:
-Your degree dataset includes Master’s and PhD outliers, and your max value confirms that.
+The degree dataset includes Master’s and PhD outliers, and the max value confirms that.
 
 2. Outlier Alert: The Degree Salaries Are Inflated
 
@@ -72,8 +72,7 @@ Max degree salary: 349,508
 
 Max no-degree salary: 125,000
 
-That 349k value is way outside normal entry-level ranges.
-This is exactly what you described in your README: advanced-degree roles inflate the upper range.
+That 349k value is way outside normal entry-level ranges. This shows how advanced-degree roles inflate the upper range.
 
 The standard deviation confirms this:
 
