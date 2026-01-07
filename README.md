@@ -61,7 +61,7 @@ Salary Levels: Degree vs. No Degree
 Category	Mean Salary
 Degree-required	157,416
 No-degree	91,438
-Degree roles average ~66k more, but remember:
+Degree roles average 66k more, but remember:
 The degree dataset includes Master’s and PhD outliers, and the max value confirms that.
 
 2. Outlier Alert: The Degree Salaries Are Inflated
