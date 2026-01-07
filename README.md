@@ -4,8 +4,8 @@ Follow these steps to download, install, and run the project:
  
 1. **Clone the repository** 
    ```bash 
-   git clone https://github.com/wyparks04/Project_Prep2.git 
-   cd Project_Prep2 
+   git clone https://github.com/wyparks04/Degree_Impact_On_Data_Analyst_Salaries
+   cd Degree_Impact_On_Data_Analyst_Salaries
 
 
 Create a virtual environment: 
