@@ -144,12 +144,12 @@ degree_flag
 
 ## 3. Technologies Used 
  
-- **Python**: Core programming language for data analysis 
-- **Pandas**: Used to clean and manipulate the dataset (handling missing values, feature engineering) 
-- **SQL**: Applied for joins and structured queries to combine datasets 
-- **Matplotlib**: Created visualizations to highlight salary trends and degree requirements 
-- **Jupyter Notebook**: Provided a narrative‑driven environment to present both code and results 
-- **Git/GitHub**: Version control and collaboration, ensuring reproducibility and transparency
+- Python: Core programming language for data analysis 
+- Pandas: Used to clean and manipulate the dataset (handling missing values, feature engineering) 
+- SQL: Applied for joins and structured queries to combine datasets 
+- Matplotlib: Created visualizations to highlight salary trends and degree requirements 
+- Jupyter Notebook: Provided a narrative‑driven environment to present both code and results 
+- Git/GitHub: Version control and collaboration, ensuring reproducibility and transparency
 
 
 ## 4. Results / Findings
@@ -209,19 +209,19 @@ The presence of Master’s and PhD listings in the AI Jobs Dataset highlights ho
 
 ## 7. Limitations
 
-- **Mixed education levels in the AI Jobs Dataset:**  
+- Mixed education levels in the AI Jobs Dataset:
   The degree_jobs dataset included roles requiring Bachelor’s, Master’s, and PhD degrees. Although advanced‑degree roles were treated as outliers for the core comparison, their presence still influenced the overall salary distribution and required additional filtering.
 
-- **Dataset source variability:**  
+- Dataset source variability:  
   Job‑posting datasets often contain inconsistencies in how employers label education requirements, experience levels, and salary ranges. These inconsistencies may affect the precision of the comparisons.
 
-- **Entry‑level focus:**  
+- Entry‑level focus: 
   This analysis specifically targeted entry‑level data analyst roles. Findings may not generalize to mid‑level or senior positions, which follow different salary patterns and education expectations.
 
-- **Salary reporting differences:**  
+- Salary reporting differences: 
   Some listings provided exact salary values, while others offered ranges or estimates. These differences can introduce variation in the aggregated salary metrics.
 
-- **Geographic and industry factors not included:**  
+- Geographic and industry factors not included:
   Salaries can vary significantly by region, company size, and industry sector. These factors were not isolated in this analysis and may influence salary outcomes.
 
 ### Data Source
