@@ -15,7 +15,7 @@ Create a virtual environment:
 
 Activate the virtual environment: 
 
-    a. On Windows: venv\Scripts\activate 
+    a. On Windows: venv\Scripts\activate or source venv/Scripts/activate
  
 
     b. On macOS/Linux: source venv/bin/activate 
@@ -48,12 +48,34 @@ Once the project is running, users will see:
  
 No coding background is required to understand the results — all outputs are explained clearly and supported by visuals. 
 
-## Datasets 
+### 3. Execution Order
+To reproduce the full data‑cleaning and database‑creation workflow, run the notebooks in the following order:
+
+data_cleaning.ipynb – Initial cleaning and preprocessing of the raw datasets.
+
+data_cleaning2.ipynb – Secondary cleaning, feature adjustments, and preparation of final cleaned files.
+
+create_SQLite_database.ipynb – Loads the cleaned datasets and builds the SQLite database used for analysis.
+
+### 4. Datasets 
 Ai_jobs_dataset.csv - This dataset provides a number of roles including data analyst jobs from the artificial intelligence job market with over 15,000 real job postings collected from major job platforms worldwide. It includes detailed salary information, job requirements, company insights, and geographic trends. This dataset includes detailed information such as job titles, salaries, employment type, company location, remote status, required skills, and education requirements.
 
-Data_analyst_jobs.csv - This dataset was manipulated from the data_jobs dataset created by Luke Barousse containing hundreds of thousands of real-world job postings related to data analytics, data engineering, and data science roles. It was manipulated to include only data analyst jobs. This dataset includes detailed information such as job titles, salaries, employment type, company location, remote status, required skills, and education requirements. The dataset supports analysis of hiring trends, skill demand, and salary patterns across the data industry.
+Data_analyst_jobs.csv - This dataset was manipulated from the data_jobs dataset created by Luke Barousse containing hundreds of thousands of real-world job postings related to data analytics, data engineering, and data science roles. It was manipulated to include only data analyst jobs using the following code:
 
-## Data Summary
+import pandas as pd
+import matplotlib.pyplot as plt
+import sqlite3 
+
+df = pd.read_csv("data_jobs.csv")
+
+
+df = df[df['job_title'] == 'Data Analyst'].reset_index(drop=True)
+
+df.to_csv('data_analyst_jobs.csv', index=False)
+
+This dataset includes detailed information such as job titles, salaries, employment type, company location, remote status, required skills, and education requirements. The dataset supports analysis of hiring trends, skill demand, and salary patterns across the data industry.
+
+### 5. Data Summary
 Salary Levels: Degree vs. No Degree
 
 1. Mean (Average) Salary
@@ -114,7 +136,7 @@ Min: 41,446
 
 Max: 125,000
 
-## Data Dictionary 
+### 6. Data Dictionary 
 
 job_title
 
@@ -142,7 +164,7 @@ salary_tier
 
 degree_flag
 
-## 3. Technologies Used 
+### 7. Technologies Used 
  
 - Python: Core programming language for data analysis 
 - Pandas: Used to clean and manipulate the dataset (handling missing values, feature engineering) 
@@ -152,7 +174,7 @@ degree_flag
 - Git/GitHub: Version control and collaboration, ensuring reproducibility and transparency
 
 
-## 4. Results / Findings
+### 8. Results / Findings
 
 This project analyzed two datasets to compare salary patterns for data analyst roles.
 
@@ -190,16 +212,22 @@ The salary range is slightly lower on average, but still viable for entry‑leve
 The presence of data analyst roles requiring Master’s and PhD listings were from an AI Jobs Dataset. Identifying and treating these advanced‑degree roles as outliers was essential for producing a fair comparison between bachelor’s‑level and no‑degree roles.
 
 
-## 5. Key Takeaway
+### 9. Key Takeaway
 
 When comparing entry‑level data analyst roles:
     - Bachelor’s‑required positions tend to offer moderately higher salaries.
     - No‑degree positions remain competitive and accessible, especially for candidates with strong portfolios.
+    
+SQL appears as a required skill in many degree‑required data analyst roles, with an average salary of $349,000.
+
+This is notable because SQL is also taught in Code: You Kentucky, a program accessible to learners without a traditional four‑year degree.
+
+This suggests that high‑value technical skills are increasingly accessible outside traditional degree pathways, potentially narrowing the skills gap.
 
 Advanced‑degree listings (Master’s/PhD) where included in the visualizations for transparency, but they should not be interpreted as typical for entry‑level roles. For the core comparison, these listings were excluded to avoid skewing the results.
 
 
-## 6. Conclusion
+### 10. Conclusion
 
 This analysis shows that entry‑level data analyst roles are accessible through multiple pathways. While bachelor’s‑required positions tend to offer moderately higher salaries, the difference is not so large that it creates a barrier for candidates entering the field without a formal degree. No‑degree roles remain competitive, especially for applicants who demonstrate strong technical skills and a solid portfolio.
 
@@ -207,7 +235,7 @@ The presence of Master’s and PhD listings in the AI Jobs Dataset highlights ho
 
 ---
 
-## 7. Limitations
+### 11. Limitations
 
 - Mixed education levels in the AI Jobs Dataset:
   The degree_jobs dataset included roles requiring Bachelor’s, Master’s, and PhD degrees. Although advanced‑degree roles were treated as outliers for the core comparison, their presence still influenced the overall salary distribution and required additional filtering.
@@ -224,7 +252,7 @@ The presence of Master’s and PhD listings in the AI Jobs Dataset highlights ho
 - Geographic and industry factors not included:
   Salaries can vary significantly by region, company size, and industry sector. These factors were not isolated in this analysis and may influence salary outcomes.
 
-### Data Source
+### 12. Data Source
 This project uses two publicly available datasets:
 
 1. Global AI Job Market & Salary Trends 2025  
