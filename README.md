@@ -217,15 +217,13 @@ The presence of data analyst roles requiring Master’s and PhD listings were fr
 When comparing entry‑level data analyst roles:
     - Bachelor’s‑required positions tend to offer moderately higher salaries.
     - No‑degree positions remain competitive and accessible, especially for candidates with strong portfolios.
+Advanced‑degree listings (Master’s/PhD) where included in the visualizations for transparency, but they should not be interpreted as typical for entry‑level roles. For the core comparison, these listings were excluded to avoid skewing the results.
 
 SQL appears as a required skill in many degree‑required data analyst roles, with an average salary of $349,000.
 
 This is notable because SQL is also taught in Code: You Kentucky, a program accessible to learners without a traditional four‑year degree.
 
 This suggests that high‑value technical skills are increasingly accessible outside traditional degree pathways, potentially narrowing the skills gap.
-
-Advanced‑degree listings (Master’s/PhD) where included in the visualizations for transparency, but they should not be interpreted as typical for entry‑level roles. For the core comparison, these listings were excluded to avoid skewing the results.
-
 
 ### 10. Conclusion
 
