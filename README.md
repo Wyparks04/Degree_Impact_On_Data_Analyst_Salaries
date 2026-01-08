@@ -51,9 +51,9 @@ No coding background is required to understand the results — all outputs are e
 ### 3. Execution Order
 To reproduce the full data‑cleaning and database‑creation workflow, run the notebooks in the following order:
 
-data_cleaning.ipynb – Initial cleaning and preprocessing of the raw datasets.
+data_cleaning.ipynb – Initial cleaning and preprocessing of the raw ai_jobs dataset.
 
-data_cleaning2.ipynb – Secondary cleaning, feature adjustments, and preparation of final cleaned files.
+data_cleaning2.ipynb – Initial cleaning and preprocessing of the data_analyst_jobs dataset cleaned from the data_jobs dataset (mentioned in the next section), and preparation of final cleaned files.
 
 create_SQLite_database.ipynb – Loads the cleaned datasets and builds the SQLite database used for analysis.
 
@@ -217,7 +217,7 @@ The presence of data analyst roles requiring Master’s and PhD listings were fr
 When comparing entry‑level data analyst roles:
     - Bachelor’s‑required positions tend to offer moderately higher salaries.
     - No‑degree positions remain competitive and accessible, especially for candidates with strong portfolios.
-    
+
 SQL appears as a required skill in many degree‑required data analyst roles, with an average salary of $349,000.
 
 This is notable because SQL is also taught in Code: You Kentucky, a program accessible to learners without a traditional four‑year degree.
