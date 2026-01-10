@@ -13,11 +13,14 @@ Create a virtual environment:
     python -m venv venv 
  
 
-Activate the virtual environment: 
+Activate the virtual environment
 
-    a. On Windows: venv\Scripts\activate or source venv/Scripts/activate
+Depending on your terminal, use the appropriate activation command:
+
+    a. On Windows Command Prompt: venv\Scripts\activate
+    
+    b. Windows Git Bash: source venv/Scripts/activate
  
-
     b. On macOS/Linux: source venv/bin/activate 
  
 
