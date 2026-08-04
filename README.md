@@ -1,14 +1,12 @@
-Degree Impact on Data Analyst Jobs
+## 1. Project Setup Instructions
 
-This project explores how a degree influences job opportunities, salaries, and hiring trends for data analyst roles. Using two datasets, this analysis includes data cleaning, database creation, and visualizations to uncover meaningful insights about the relationship between degrees and data analyst careers.
-
-1. Project Setup Instructions
 Follow these steps to download, install, and run the project locally.
 
-Clone the repository
-bash
+### Clone the repository
+```bash
 git clone https://github.com/wyparks04/Degree_Impact_On_Data_Analyst_Salaries.git
 cd Degree_Impact_On_Data_Analyst_Salaries
+
 Create a virtual environment
 bash
 python -m venv venv
