@@ -1,4 +1,4 @@
-job_id,job_title,salary_usd,employment_type,company_location,is_remote,employee_location,job_skills,degree_required,posting_date,company_name,has_python,has_sql,has_tableau,degree_flag,salary_tier
+job_id,job_title,salary_usd,employment_type,company_location,is_remote,employee_location,job_skills,degree_type,posting_date,company_name,has_python,has_sql,has_tableau,degree_flag,salary_tier
 8,Data Analyst,160710,CT,Singapore,False,Singapore,"['Hadoop', 'Git', 'Mathematics', 'Python']",PhD,2024-11-04,Quantum Computing Inc,True,False,False,1,High
 27,Data Analyst,52997,PT,Austria,False,Singapore,"['Mathematics', 'Kubernetes', 'TensorFlow', 'Tableau', 'PyTorch']",PhD,2025-01-10,Predictive Systems,False,False,True,1,Mid
 80,Data Analyst,157597,CT,France,True,France,"['Git', 'Kubernetes', 'TensorFlow', 'R', 'Java']",Bachelor,2024-08-31,Neural Networks Co,False,False,False,1,High
