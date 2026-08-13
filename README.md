@@ -137,17 +137,23 @@ Notebook 03 creates a SQLite database containing two tables:
 
 Each table contains cleaned job-posting data, with `job_id` used as the primary key.
 
-SQL queries are then used to compare the two groups and investigate differences in reported salary and job characteristics.
+SQL queries are then used to compare degree-required and no-degree-mentioned Data Analyst positions and investigate differences in reported salaries and job characteristics.
 
 ### Key SQL Analysis
 
-The project includes queries examining:
+The project includes three primary SQL queries:
 
-- Average reported salary by degree requirement
-- Salary differences between degree-required and no-degree roles
-- Salary ranges
-- Job posting counts
-- Other characteristics of the two job groups
+**Query 1 — Average Salary by Degree Requirement**
+
+Compares the average reported salary between degree-required and no-degree-mentioned Data Analyst positions.
+
+**Query 2 — Average Salary by Employment Type**
+
+Compares average reported salaries between degree-required and no-degree-mentioned positions across employment types, including full-time, part-time, and contract roles where salary data is available.
+
+**Query 3 — Average Salary by Technical Skill**
+
+Compares average reported salaries for positions mentioning Python, SQL, and Tableau between the degree-required and no-degree-mentioned groups.
 
 The SQL analysis provides a structured comparison of the two datasets and demonstrates the use of SQLite for relational data analysis.
 
