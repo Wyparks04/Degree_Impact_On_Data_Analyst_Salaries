@@ -14,7 +14,7 @@ Using two cleaned datasets, the project explores how education requirements rela
 
 ```bash
 git clone https://github.com/Wyparks04/Degree_Impact_On_Data_Analyst_Salaries.git
-cd Data_Analyst_Jobs
+cd Data_Impact_On_Data_Analyst_Salaries
 ```
 
 ### Create and Activate a Virtual Environment
