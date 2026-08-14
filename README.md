@@ -32,7 +32,7 @@ source venv/Scripts/activate
 **Windows:**
 
 ```bash
-venv\Scripts\activate
+source venv/Scripts/activate
 ```
 
 ### Install Dependencies
