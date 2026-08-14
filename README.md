@@ -177,6 +177,14 @@ The descriptive analysis shows that the degree-required dataset has a higher ave
 
 However, the salary distributions overlap substantially, indicating that no-degree positions can also offer competitive compensation.
 
+### Average Salary by Degree Requirement
+
+![Bar chart comparing average salaries for data analyst job postings with and without stated degree requirements](images/average_salary_by_degree_requirement.png)
+
+### Average Reported Salary by Technical Skill and Degree Requirement
+
+![Grouped bar chart comparing average reported salaries for Python, SQL, and Tableau roles with degree-required versus no-degree-mentioned postings](images/average_salary_by_skill_and_degree_requirement.png)
+
 ### 2. Salary Distribution
 
 Both datasets contain substantial variation in reported salaries.
