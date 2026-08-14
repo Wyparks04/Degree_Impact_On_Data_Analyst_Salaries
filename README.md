@@ -259,3 +259,6 @@ Barousse, L. — Hugging Face
 - Git / GitHub
 - Matplotlib
 
+## AI Usage
+
+I used **ChatGPT** and **Perplexity** to improve time efficiency during this project. They were used to help write and refine Markdown documentation in the notebooks and `README.md`, as well as to assist with writing and troubleshooting SQL queries.
